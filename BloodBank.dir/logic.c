@@ -1,9 +1,9 @@
 // logic.c
 // AutoMod 12.6.1 Generated File
 // Build: 12.6.1.12
-// Model name:	TEST
-// Model path:	D:\SEM5 mods\IE3110 Simulation\TEST.dir\
-// Generated:	Thu Sep 29 16:01:23 2016
+// Model name:	test
+// Model path:	D:\SEM5 mods\IE3110 Simulation\Automod\test.dir\
+// Generated:	Thu Sep 29 16:09:06 2016
 // Applied/AutoMod Licensee Confidential
 // NO DISTRIBUTION OR REPRODUCTION RIGHTS GRANTED!
 // Copyright (c) 1988-2015 Applied Materials All rights reserved.
