@@ -1,0 +1,9 @@
+Processing build commands for the model bloodbank...
+bloodbank~model.c
+bloodbank~init1.c
+logic.c
+Linking bloodbank.dll...
+   Creating library bloodbank.lib and object bloodbank.exp
+Generating bloodbank.exe...
+        1 file(s) copied.
+

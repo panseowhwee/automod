@@ -1,0 +1,5 @@
+EXPORTS
+get_ldatt_address
+init_globs
+newattrib
+set_attdata

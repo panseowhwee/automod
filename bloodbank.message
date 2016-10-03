@@ -1,0 +1,26 @@
+0.00: Starting.
+0.00: Datafiles have been read. Initializing model.
+0.00: No run control! Model will not end without intervention.
+0.00: Model image prepared... Ready to simulate.
+0.00: Load 3 (L_donor)just arrived at 0.00 hours
+343.21: Load 3 (L_donor)finished filling form at 0.10 hours
+377.66: Load 3 (L_donor)just got queue number at 0.10 hours
+495.24: Load 4 (L_donor)just arrived at 0.14 hours
+683.78: Load 4 (L_donor)finished filling form at 0.19 hours
+737.66: Load 3 (L_donor)finished medical screening at 0.20 hours
+856.85: Load 5 (L_donor)just arrived at 0.24 hours
+869.91: Load 4 (L_donor)just got queue number at 0.24 hours
+940.83: Load 5 (L_donor)finished filling form at 0.26 hours
+977.66: Load 3 (L_donor)finished blood test at 0.27 hours
+1101.29: Load 5 (L_donor)just got queue number at 0.31 hours
+1229.91: Load 4 (L_donor)finished medical screening at 0.34 hours
+1335.70: Load 6 (L_donor)just arrived at 0.37 hours
+1461.29: Load 5 (L_donor)finished medical screening at 0.41 hours
+1469.91: Load 4 (L_donor)finished blood test at 0.41 hours
+1483.96: Load 6 (L_donor)finished filling form at 0.41 hours
+1590.79: Load 4 (L_donor)finished blood donation at 0.44 hours
+1677.83: Load 7 (L_donor)just arrived at 0.47 hours
+1686.03: Load 8 (L_donor)just arrived at 0.47 hours
+1709.91: Load 5 (L_donor)finished blood test at 0.47 hours
+1753.94: Load 9 (L_donor)just arrived at 0.49 hours
+1870.15: Load 9 (L_donor)finished filling form at 0.52 hours
