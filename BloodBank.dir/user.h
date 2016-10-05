@@ -3,7 +3,7 @@
 // Build: 12.6.1.12
 // Model name:	BloodBank
 // Model path:	D:\SEM5 mods\IE3110 Simulation\Automod\bloodbank.dir\
-// Generated:	Mon Oct 03 01:09:51 2016
+// Generated:	Wed Oct 05 18:09:17 2016
 // Applied/AutoMod Licensee Confidential
 // NO DISTRIBUTION OR REPRODUCTION RIGHTS GRANTED!
 // Copyright (c) 1988-2015 Applied Materials All rights reserved.
@@ -145,6 +145,9 @@ extern ASIWindow* imp_SimKanbanStatusWin;
 typedef struct loadatt {
 	struct {
 		resource* am_A_recepPointer;	/* A_recepPointer */
+		queue* am_A_regisPointer;	/* A_regisPointer */
+		int32 am_A_recep;	/* A_recep */
+		queue* am_A_screenPointer;	/* A_screenPointer */
 	} am_model;
 } loadatt;
 

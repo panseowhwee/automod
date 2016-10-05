@@ -3,7 +3,7 @@
 // Build: 12.6.1.12
 // Model name:	BloodBank
 // Model path:	D:\SEM5 mods\IE3110 Simulation\Automod\BloodBank.dir\
-// Generated:	Mon Oct 03 01:35:50 2016
+// Generated:	Wed Oct 05 18:09:13 2016
 // Applied/AutoMod Licensee Confidential
 // NO DISTRIBUTION OR REPRODUCTION RIGHTS GRANTED!
 // Copyright (c) 1988-2015 Applied Materials All rights reserved.
@@ -37,6 +37,9 @@ model_initialize()
 			create_l(1, am2_L_doctorDown, am2_P_doctorsLunch, 0.0);
 		}
 		{
+			create_l(1, am2_L_recepDown, am2_P_recepLunch, 0.0);
+		}
+		{
 			return 1;
 		}
 	}
@@ -63,7 +66,7 @@ Label1: ;  /* Step1 */
 					clone(this, 1, am2_P_formFilling, am2_L_donor);
 				}
 				{
-					if (waitfor(ToModelTime(exponential(am2_stream0, 4), UNITMINUTES), this, P_start_arriving, Step 2, am_localargs) == Delayed)
+					if (waitfor(ToModelTime(exponential(am2_stream0, 2), UNITMINUTES), this, P_start_arriving, Step 2, am_localargs) == Delayed)
 						return Delayed;
 Label2: ; // Step 2
 				}
@@ -237,40 +240,6 @@ LabelRet: ;
 	return retval;
 } /* end of P_registration_arriving */
 
-
-static resource*
-Func0(load* this)
-{
-	return &(am2_R_doctor[1]);
-}
-
-
-static resource*
-Func1(load* this)
-{
-	return &(am2_R_doctor[2]);
-}
-
-
-typedef struct {
-	resource* (*value)(load*);
-} Nextof0;
-
-static Nextof0 List0[] = {
-	Func0,
-	Func1
-};
-
-static resource*
-nextofFunc0(load* this)
-{
-	static int ind = 1;
-
-	tprintf(tfp, "In nextof\n");
-	ind = (ind+1) % 2;
-	return List0[ind].value(this);
-}
-
 static int32
 P_medicalScreening_arriving(load* this, int32 step, void* args)
 {
@@ -281,6 +250,8 @@ P_medicalScreening_arriving(load* this, int32 step, void* args)
 	case Step 2: goto Label2;
 	case Step 3: goto Label3;
 	case Step 4: goto Label4;
+	case Step 5: goto Label5;
+	case Step 6: goto Label6;
 	default: message("Bad step number %ld.", step);
 	}
 	retval = Error;
@@ -304,14 +275,69 @@ Label1: ;  /* Step1 */
 Label2: ; // Step 2
 		}
 		{
-			pushppa(this, P_medicalScreening_arriving, Step 3, am_localargs);
-			pushppa(this, inqueue, Step 1, &(am2_Q_medicalScreening[1]));
-			return Continue; // go move into territory
-Label3: ; // Step 3
+			queue* am_locVar;
+			AMQueueList* am_locList = NULL;
+
+			ListAppendItem(QueueList, am_locList, &(am2_Q_medicalScreening[1]));
+			ListAppendItem(QueueList, am_locList, &(am2_Q_medicalScreening[2]));
+			if (Size(List, _List, am_locList)) {
+				int32 am_locVal;
+				AMQueueListItem* locIter;
+				int i = 0;
+				int first = getirand(am2_stream0) % am_locList->numItems;
+
+				for (locIter = am_locList->first; i < first; ++i, locIter = locIter->next) {
+				}
+				am_locVar = locIter->item;
+				am_locVal = QueGetCurConts(ValidPtr(am_locVar, 50, queue*));
+				this->attribute->am2_A_screenPointer = am_locVar;
+				EntityChanged(0x00000040);
+				for (locIter = locIter->next; locIter; locIter = locIter->next) {
+					am_locVar = locIter->item;
+					if (QueGetCurConts(ValidPtr(am_locVar, 50, queue*)) < am_locVal) {
+						this->attribute->am2_A_screenPointer = am_locVar;
+						EntityChanged(0x00000040);
+						am_locVal = QueGetCurConts(ValidPtr(am_locVar, 50, queue*));
+					}
+				}
+				for (i = 0, locIter = am_locList->first; i < first; ++i, locIter = locIter->next) {
+					am_locVar = locIter->item;
+					if (QueGetCurConts(ValidPtr(am_locVar, 50, queue*)) < am_locVal) {
+						this->attribute->am2_A_screenPointer = am_locVar;
+						EntityChanged(0x00000040);
+						am_locVal = QueGetCurConts(ValidPtr(am_locVar, 50, queue*));
+					}
+				}
+				ListRemoveAllAndFree(QueueList, am_locList);
+			} else
+				this->attribute->am2_A_screenPointer = NULL;
+				EntityChanged(0x00000040);
 		}
 		{
-			return usefor(nextofFunc0(this), 1, this, P_medicalScreening_arriving, Step 4, am_localargs, ToModelTime(6, UNITMINUTES));
+			if (this->attribute->am2_A_screenPointer == &(am2_Q_medicalScreening[1])) {
+				{
+					pushppa(this, P_medicalScreening_arriving, Step 3, am_localargs);
+					pushppa(this, inqueue, Step 1, &(am2_Q_medicalScreening[1]));
+					return Continue; // go move into territory
+Label3: ; // Step 3
+				}
+				{
+					return usefor(&(am2_R_doctor[1]), 1, this, P_medicalScreening_arriving, Step 4, am_localargs, ToModelTime(exponential(am2_stream0, 6), UNITMINUTES));
 Label4: ; // Step 4
+				}
+			}
+			else {
+				{
+					pushppa(this, P_medicalScreening_arriving, Step 5, am_localargs);
+					pushppa(this, inqueue, Step 1, &(am2_Q_medicalScreening[2]));
+					return Continue; // go move into territory
+Label5: ; // Step 5
+				}
+				{
+					return usefor(&(am2_R_doctor[2]), 1, this, P_medicalScreening_arriving, Step 6, am_localargs, ToModelTime(exponential(am2_stream0, 6), UNITMINUTES));
+Label6: ; // Step 6
+				}
+			}
 		}
 		{
 			this->nextproc = am2_P_bloodTest; /* send to ... */
@@ -497,6 +523,66 @@ LabelRet: ;
 	return retval;
 } /* end of P_doctorsLunch_arriving */
 
+static int32
+P_recepLunch_arriving(load* this, int32 step, void* args)
+{
+	void* am_localargs = NULL;
+	int32 retval = Continue;
+	switch (step) { /* Make the step switcher */
+	case Step 1: goto Label1;
+	case Step 2: goto Label2;
+	case Step 3: goto Label3;
+	case Step 4: goto Label4;
+	default: message("Bad step number %ld.", step);
+	}
+	retval = Error;
+	goto LabelRet;
+Label1: ;  /* Step1 */
+	{
+		{
+			if (waitfor(ToModelTime(60, UNITMINUTES), this, P_recepLunch_arriving, Step 2, am_localargs) == Delayed)
+				return Delayed;
+Label2: ; // Step 2
+		}
+		{
+			this->attribute->am2_A_recep = 1;
+			EntityChanged(0x00000040);
+		}
+		{
+			while (this->attribute->am2_A_recep != 3) {
+				{
+					if (QueGetCurConts(am2_Q_registration_wait) <= 2) {
+						{
+							downrsrc(&(am2_R_receptionist[ValidIndex("am_model.am_R_receptionist", this->attribute->am2_A_recep, 2)]));
+						}
+						{
+							if (waitfor(ToModelTime(45, UNITMINUTES), this, P_recepLunch_arriving, Step 3, am_localargs) == Delayed)
+								return Delayed;
+Label3: ; // Step 3
+						}
+						{
+							uprsrc(&(am2_R_receptionist[ValidIndex("am_model.am_R_receptionist", this->attribute->am2_A_recep, 2)]));
+						}
+						{
+							this->attribute->am2_A_recep = this->attribute->am2_A_recep + 1;
+							EntityChanged(0x00000040);
+						}
+					}
+				}
+				{
+					if (waitfor(ToModelTime(1, UNITMINUTES), this, P_recepLunch_arriving, Step 4, am_localargs) == Delayed)
+						return Delayed;
+Label4: ; // Step 4
+				}
+			}
+		}
+	}
+LabelRet: ;
+	if (am_localargs)
+		xfree(am_localargs);
+	return retval;
+} /* end of P_recepLunch_arriving */
+
 
 
 /* init function for logic.m */
@@ -511,5 +597,6 @@ model_logic_init(struct model_struct* data)
 	data->am_P_bloodTest->aprc = P_bloodTest_arriving;
 	data->am_P_donation->aprc = P_donation_arriving;
 	data->am_P_doctorsLunch->aprc = P_doctorsLunch_arriving;
+	data->am_P_recepLunch->aprc = P_recepLunch_arriving;
 }
 

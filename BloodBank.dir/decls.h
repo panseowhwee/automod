@@ -3,7 +3,7 @@
 // Build: 12.6.1.12
 // Model name:	BloodBank
 // Model path:	D:\SEM5 mods\IE3110 Simulation\Automod\bloodbank.dir\
-// Generated:	Mon Oct 03 01:09:51 2016
+// Generated:	Wed Oct 05 18:09:17 2016
 // Applied/AutoMod Licensee Confidential
 // NO DISTRIBUTION OR REPRODUCTION RIGHTS GRANTED!
 // Copyright (c) 1988-2015 Applied Materials All rights reserved.
@@ -137,12 +137,14 @@ struct model_struct {
 	process* am_die;
 	rnstream* am_stream_R_doctor_1;
 	queue* am_Q_registration;
+	attribute* am_A_recep$att;
 	process* am_P_registration;
 	queue* am_Q_donation_wait;
 	queue* am_Q_registration_wait;
 	variable* am_OPCTimestamp$var;
 	char* am_OPCTimestamp;
 	rnstream* am_stream_R_staff_1;
+	attribute* am_A_regisPointer$att;
 	rnstream* am_stream_R_receptionist_1;
 	queue* am_Q_bloodTest;
 	process* am_P_bloodTest;
@@ -157,13 +159,16 @@ struct model_struct {
 	queue* am_Q_formFilling;
 	rnstream* am_stream0;
 	process* am_P_formFilling;
+	process* am_P_recepLunch;
 	queue* am_Q_bloodTest_wait;
 	resource* am_R_doctor;
+	loadtype* am_L_recepDown;
 	resource* am_R_receptionist;
 	variable* am_OPCQuality$var;
 	int32 am_OPCQuality;
 	rnstream* am_stream_R_bpa_bloodTest_1;
 	process* am_P_start;
+	attribute* am_A_screenPointer$att;
 };
 extern struct model_struct am_model;
 void initglobs0();

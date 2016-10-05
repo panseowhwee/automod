@@ -3,7 +3,7 @@
 // Build: 12.6.1.12
 // Model name:	BloodBank
 // Model path:	D:\SEM5 mods\IE3110 Simulation\Automod\bloodbank.dir\
-// Generated:	Mon Oct 03 01:09:51 2016
+// Generated:	Wed Oct 05 18:09:17 2016
 // Applied/AutoMod Licensee Confidential
 // NO DISTRIBUTION OR REPRODUCTION RIGHTS GRANTED!
 // Copyright (c) 1988-2015 Applied Materials All rights reserved.
@@ -126,6 +126,15 @@ get_ldatt_address(load* this, int32 index, int32* d)
 	case 0:
 		data = (void*)&this->attribute->am_model.am_A_recepPointer;
 		break;
+	case 1:
+		data = (void*)&this->attribute->am_model.am_A_regisPointer;
+		break;
+	case 2:
+		data = (void*)&this->attribute->am_model.am_A_recep;
+		break;
+	case 3:
+		data = (void*)&this->attribute->am_model.am_A_screenPointer;
+		break;
 	}
 	return data;
 }
@@ -136,6 +145,9 @@ set_attdata(load* this)
 	attribute* att;
 
 	am_model.am_A_recepPointer$att->data = (void*)&this->attribute->am_model.am_A_recepPointer;
+	am_model.am_A_regisPointer$att->data = (void*)&this->attribute->am_model.am_A_regisPointer;
+	am_model.am_A_recep$att->data = (void*)&this->attribute->am_model.am_A_recep;
+	am_model.am_A_screenPointer$att->data = (void*)&this->attribute->am_model.am_A_screenPointer;
 }
 
 char*

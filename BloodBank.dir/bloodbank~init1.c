@@ -3,7 +3,7 @@
 // Build: 12.6.1.12
 // Model name:	BloodBank
 // Model path:	D:\SEM5 mods\IE3110 Simulation\Automod\bloodbank.dir\
-// Generated:	Mon Oct 03 01:09:51 2016
+// Generated:	Wed Oct 05 18:09:17 2016
 // Applied/AutoMod Licensee Confidential
 // NO DISTRIBUTION OR REPRODUCTION RIGHTS GRANTED!
 // Copyright (c) 1988-2015 Applied Materials All rights reserved.
@@ -36,12 +36,14 @@ initglobs0()
 	am_model.am_die = symGetSystemDataByName(am_model.$sys, "die");
 	am_model.am_stream_R_doctor_1 = symGetSystemDataByName(am_model.$sys, "stream_R_doctor_1");
 	am_model.am_Q_registration = symGetSystemDataByName(am_model.$sys, "Q_registration");
+	am_model.am_A_recep$att = symGetSystemDataByName(am_model.$sys, "A_recep");
 	am_model.am_P_registration = symGetSystemDataByName(am_model.$sys, "P_registration");
 	am_model.am_Q_donation_wait = symGetSystemDataByName(am_model.$sys, "Q_donation_wait");
 	am_model.am_Q_registration_wait = symGetSystemDataByName(am_model.$sys, "Q_registration_wait");
 	am_model.am_OPCTimestamp$var = symGetSystemDataByName(am_model.$sys, "OPCTimestamp");
 	am_model.am_OPCTimestamp$var->data = (void*)&am_model.am_OPCTimestamp;
 	am_model.am_stream_R_staff_1 = symGetSystemDataByName(am_model.$sys, "stream_R_staff_1");
+	am_model.am_A_regisPointer$att = symGetSystemDataByName(am_model.$sys, "A_regisPointer");
 	am_model.am_stream_R_receptionist_1 = symGetSystemDataByName(am_model.$sys, "stream_R_receptionist_1");
 	am_model.am_Q_bloodTest = symGetSystemDataByName(am_model.$sys, "Q_bloodTest");
 	am_model.am_P_bloodTest = symGetSystemDataByName(am_model.$sys, "P_bloodTest");
@@ -56,13 +58,16 @@ initglobs0()
 	am_model.am_Q_formFilling = symGetSystemDataByName(am_model.$sys, "Q_formFilling");
 	am_model.am_stream0 = symGetSystemDataByName(am_model.$sys, "stream0");
 	am_model.am_P_formFilling = symGetSystemDataByName(am_model.$sys, "P_formFilling");
+	am_model.am_P_recepLunch = symGetSystemDataByName(am_model.$sys, "P_recepLunch");
 	am_model.am_Q_bloodTest_wait = symGetSystemDataByName(am_model.$sys, "Q_bloodTest_wait");
 	am_model.am_R_doctor = symGetSystemDataByName(am_model.$sys, "R_doctor");
+	am_model.am_L_recepDown = symGetSystemDataByName(am_model.$sys, "L_recepDown");
 	am_model.am_R_receptionist = symGetSystemDataByName(am_model.$sys, "R_receptionist");
 	am_model.am_OPCQuality$var = symGetSystemDataByName(am_model.$sys, "OPCQuality");
 	am_model.am_OPCQuality$var->data = (void*)&am_model.am_OPCQuality;
 	am_model.am_stream_R_bpa_bloodTest_1 = symGetSystemDataByName(am_model.$sys, "stream_R_bpa_bloodTest_1");
 	am_model.am_P_start = symGetSystemDataByName(am_model.$sys, "P_start");
+	am_model.am_A_screenPointer$att = symGetSystemDataByName(am_model.$sys, "A_screenPointer");
 	model_logic_init(&am_model);
 	{
 		Iter(List, FileList) it = Begin(List, FileList, &((ProcSystem*)am_model.$sys)->files);

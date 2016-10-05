@@ -3,7 +3,7 @@
 // Build: 12.6.1.12
 // Model name:	BloodBank
 // Model path:	D:\SEM5 mods\IE3110 Simulation\Automod\bloodbank.dir\
-// Generated:	Mon Oct 03 01:09:51 2016
+// Generated:	Wed Oct 05 18:09:17 2016
 // Applied/AutoMod Licensee Confidential
 // NO DISTRIBUTION OR REPRODUCTION RIGHTS GRANTED!
 // Copyright (c) 1988-2015 Applied Materials All rights reserved.
@@ -73,6 +73,8 @@
 #undef MilliSleep
 #undef am2_Q_registration
 #define am2_Q_registration am_model.am_Q_registration
+#undef am2_A_recep
+#define am2_A_recep am_model.am_A_recep
 #undef SetAcceptTimeOut
 #undef am2_P_registration
 #define am2_P_registration am_model.am_P_registration
@@ -111,6 +113,8 @@
 #undef DBGetColumnName
 #undef Fresvis
 #undef DBMovePrev
+#undef am2_A_regisPointer
+#define am2_A_regisPointer am_model.am_A_regisPointer
 #undef am2_stream_R_receptionist_1
 #define am2_stream_R_receptionist_1 am_model.am_stream_R_receptionist_1
 #undef GetSocketHost
@@ -187,6 +191,8 @@
 #undef am2_P_formFilling
 #define am2_P_formFilling am_model.am_P_formFilling
 #undef FcopyLoadTypePict
+#undef am2_P_recepLunch
+#define am2_P_recepLunch am_model.am_P_recepLunch
 #undef MMSyncSendMessageType
 #undef SetSyncRate
 #undef OPCAddItem
@@ -217,6 +223,8 @@
 #undef XLSetArea
 #undef ClosestVehicles
 #undef DBCloseSource
+#undef am2_L_recepDown
+#define am2_L_recepDown am_model.am_L_recepDown
 #undef Fsaa_on
 #undef MMSyncSendMessageNumStrings
 #undef am2_R_receptionist
@@ -237,3 +245,5 @@
 #undef Fmodnavi
 #undef Ftogglepict
 #undef SetDisplayStep
+#undef am2_A_screenPointer
+#define am2_A_screenPointer am_model.am_A_screenPointer
