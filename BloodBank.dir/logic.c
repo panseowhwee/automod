@@ -3,7 +3,7 @@
 // Build: 12.6.1.12
 // Model name:	BloodBank
 // Model path:	D:\SEM5 mods\IE3110 Simulation\Automod\BloodBank.dir\
-// Generated:	Wed Oct 05 18:09:13 2016
+// Generated:	Wed Oct 05 19:26:16 2016
 // Applied/AutoMod Licensee Confidential
 // NO DISTRIBUTION OR REPRODUCTION RIGHTS GRANTED!
 // Copyright (c) 1988-2015 Applied Materials All rights reserved.
@@ -240,6 +240,32 @@ LabelRet: ;
 	return retval;
 } /* end of P_registration_arriving */
 
+
+typedef struct {
+	double freq;
+	process** value;
+} Oneof0;
+
+static Oneof0 List0[] = {
+	{ 90, &am2_P_bloodTest},
+	{ 100, &am2_die}
+};
+
+static process*
+oneofFunc0(load* this)
+{
+	int ind = 0;
+	Oneof0* list = List0;
+	double sample = getdrand(am2_stream0) * 100;
+
+	tprintf(tfp, "In oneof\n");
+	while (list->freq < sample) {
+		ind++;
+		list++;
+	}
+	return *List0[ind].value;
+}
+
 static int32
 P_medicalScreening_arriving(load* this, int32 step, void* args)
 {
@@ -340,7 +366,7 @@ Label6: ; // Step 6
 			}
 		}
 		{
-			this->nextproc = am2_P_bloodTest; /* send to ... */
+			this->nextproc = oneofFunc0(this); /* send to ... */
 			EntityChanged(W_LOAD);
 			retval = Continue;
 			goto LabelRet;
@@ -351,6 +377,32 @@ LabelRet: ;
 		xfree(am_localargs);
 	return retval;
 } /* end of P_medicalScreening_arriving */
+
+
+typedef struct {
+	double freq;
+	process** value;
+} Oneof1;
+
+static Oneof1 List1[] = {
+	{ 90, &am2_P_donation},
+	{ 100, &am2_die}
+};
+
+static process*
+oneofFunc1(load* this)
+{
+	int ind = 0;
+	Oneof1* list = List1;
+	double sample = getdrand(am2_stream0) * 100;
+
+	tprintf(tfp, "In oneof\n");
+	while (list->freq < sample) {
+		ind++;
+		list++;
+	}
+	return *List1[ind].value;
+}
 
 static int32
 P_bloodTest_arriving(load* this, int32 step, void* args)
@@ -391,11 +443,11 @@ Label2: ; // Step 2
 Label3: ; // Step 3
 		}
 		{
-			return usefor(am2_R_bpa_bloodTest, 1, this, P_bloodTest_arriving, Step 4, am_localargs, ToModelTime(4, UNITMINUTES));
+			return usefor(am2_R_bpa_bloodTest, 1, this, P_bloodTest_arriving, Step 4, am_localargs, ToModelTime(exponential(am2_stream0, 4), UNITMINUTES));
 Label4: ; // Step 4
 		}
 		{
-			this->nextproc = am2_P_donation; /* send to ... */
+			this->nextproc = oneofFunc1(this); /* send to ... */
 			EntityChanged(W_LOAD);
 			retval = Continue;
 			goto LabelRet;
@@ -568,11 +620,11 @@ Label3: ; // Step 3
 							EntityChanged(0x00000040);
 						}
 					}
-				}
-				{
-					if (waitfor(ToModelTime(1, UNITMINUTES), this, P_recepLunch_arriving, Step 4, am_localargs) == Delayed)
-						return Delayed;
+					else {
+						if (waitfor(ToModelTime(1, UNITMINUTES), this, P_recepLunch_arriving, Step 4, am_localargs) == Delayed)
+							return Delayed;
 Label4: ; // Step 4
+					}
 				}
 			}
 		}

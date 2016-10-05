@@ -12,490 +12,1343 @@
 529.34: Load 4 (L_donor)just got queue number at 0.15 hours
 565.61: Load 4 (L_donor)finished medical screening at 0.16 hours
 627.90: Load 7 (L_donor)just arrived at 0.17 hours
+632.00: Load 8 (L_donor)just arrived at 0.18 hours
+665.95: Load 9 (L_donor)just arrived at 0.18 hours
 729.05: Load 6 (L_donor)just got queue number at 0.20 hours
 739.07: Load 5 (L_donor)finished medical screening at 0.21 hours
-772.78: Load 8 (L_donor)just arrived at 0.21 hours
-805.61: Load 4 (L_donor)finished blood test at 0.22 hours
-806.74: Load 9 (L_donor)just arrived at 0.22 hours
-922.95: Load 9 (L_donor)finished filling form at 0.26 hours
-989.69: Load 10 (L_donor)just arrived at 0.27 hours
-1039.08: Load 9 (L_donor)just got queue number at 0.29 hours
-1045.61: Load 5 (L_donor)finished blood test at 0.29 hours
-1081.59: Load 9 (L_donor)finished medical screening at 0.30 hours
-1132.60: Load 10 (L_donor)finished filling form at 0.31 hours
-1179.17: Load 11 (L_donor)just arrived at 0.33 hours
-1190.16: Load 10 (L_donor)just got queue number at 0.33 hours
-1200.31: Load 5 (L_donor)finished blood donation at 0.33 hours
-1214.95: Load 10 (L_donor)finished medical screening at 0.34 hours
-1261.42: Load 12 (L_donor)just arrived at 0.35 hours
-1264.11: Load 13 (L_donor)just arrived at 0.35 hours
-1284.68: Load 8 (L_donor)finished filling form at 0.36 hours
-1295.51: Load 8 (L_donor)just got queue number at 0.36 hours
-1321.59: Load 9 (L_donor)finished blood test at 0.37 hours
-1328.00: Load 14 (L_donor)just arrived at 0.37 hours
-1376.82: Load 15 (L_donor)just arrived at 0.38 hours
-1382.72: Load 13 (L_donor)finished filling form at 0.38 hours
-1427.97: Load 6 (L_donor)finished medical screening at 0.40 hours
-1451.24: Load 16 (L_donor)just arrived at 0.40 hours
-1482.37: Load 12 (L_donor)finished filling form at 0.41 hours
-1510.03: Load 8 (L_donor)finished medical screening at 0.42 hours
-1561.59: Load 10 (L_donor)finished blood test at 0.43 hours
-1627.25: Load 13 (L_donor)just got queue number at 0.45 hours
-1640.96: Load 7 (L_donor)finished filling form at 0.46 hours
-1662.66: Load 7 (L_donor)just got queue number at 0.46 hours
-1671.67: Load 17 (L_donor)just arrived at 0.46 hours
-1678.35: Load 7 (L_donor)finished medical screening at 0.47 hours
-1681.17: Load 16 (L_donor)finished filling form at 0.47 hours
-1711.47: Load 9 (L_donor)finished blood donation at 0.48 hours
-1747.09: Load 17 (L_donor)finished filling form at 0.49 hours
-1792.24: Load 13 (L_donor)finished medical screening at 0.50 hours
-1792.39: Load 18 (L_donor)just arrived at 0.50 hours
-1801.59: Load 6 (L_donor)finished blood test at 0.50 hours
-1801.65: Load 12 (L_donor)just got queue number at 0.50 hours
-1834.57: Load 19 (L_donor)just arrived at 0.51 hours
-1872.36: Load 20 (L_donor)just arrived at 0.52 hours
-1883.24: Load 12 (L_donor)finished medical screening at 0.52 hours
-1926.62: Load 14 (L_donor)finished filling form at 0.54 hours
-1928.37: Load 16 (L_donor)just got queue number at 0.54 hours
-1929.43: Load 21 (L_donor)just arrived at 0.54 hours
-1938.40: Load 18 (L_donor)finished filling form at 0.54 hours
-1939.08: Load 11 (L_donor)finished filling form at 0.54 hours
-1948.03: Load 14 (L_donor)just got queue number at 0.54 hours
-1971.69: Load 19 (L_donor)finished filling form at 0.55 hours
-1999.82: Load 14 (L_donor)finished medical screening at 0.56 hours
-2037.68: Load 10 (L_donor)finished blood donation at 0.57 hours
-2041.59: Load 8 (L_donor)finished blood test at 0.57 hours
-2047.18: Load 17 (L_donor)just got queue number at 0.57 hours
-2056.89: Load 21 (L_donor)finished filling form at 0.57 hours
-2069.34: Load 22 (L_donor)just arrived at 0.57 hours
-2076.72: Load 23 (L_donor)just arrived at 0.58 hours
-2077.47: Load 18 (L_donor)just got queue number at 0.58 hours
-2107.63: Load 20 (L_donor)finished filling form at 0.59 hours
-2146.34: Load 15 (L_donor)finished filling form at 0.60 hours
-2157.44: Load 8 (L_donor)finished blood donation at 0.60 hours
-2159.35: Load 23 (L_donor)finished filling form at 0.60 hours
-2173.02: Load 16 (L_donor)finished medical screening at 0.60 hours
-2188.33: Load 11 (L_donor)just got queue number at 0.61 hours
-2201.68: Load 21 (L_donor)just got queue number at 0.61 hours
-2219.26: Load 24 (L_donor)just arrived at 0.62 hours
-2225.18: Load 25 (L_donor)just arrived at 0.62 hours
-2245.05: Load 6 (L_donor)finished blood donation at 0.62 hours
-2245.99: Load 23 (L_donor)just got queue number at 0.62 hours
-2271.10: Load 26 (L_donor)just arrived at 0.63 hours
-2281.59: Load 7 (L_donor)finished blood test at 0.63 hours
-2333.07: Load 19 (L_donor)just got queue number at 0.65 hours
-2447.40: Load 24 (L_donor)finished filling form at 0.68 hours
-2458.65: Load 25 (L_donor)finished filling form at 0.68 hours
-2475.64: Load 27 (L_donor)just arrived at 0.69 hours
-2521.59: Load 13 (L_donor)finished blood test at 0.70 hours
-2526.32: Load 18 (L_donor)finished medical screening at 0.70 hours
-2533.75: Load 24 (L_donor)just got queue number at 0.70 hours
-2560.65: Load 17 (L_donor)finished medical screening at 0.71 hours
-2645.21: Load 27 (L_donor)finished filling form at 0.73 hours
-2653.71: Load 24 (L_donor)finished medical screening at 0.74 hours
-2659.39: Load 13 (L_donor)finished blood donation at 0.74 hours
-2699.30: Load 26 (L_donor)finished filling form at 0.75 hours
-2726.42: Load 7 (L_donor)finished blood donation at 0.76 hours
-2761.59: Load 12 (L_donor)finished blood test at 0.77 hours
-2876.25: Load 20 (L_donor)just got queue number at 0.80 hours
-2938.63: Load 25 (L_donor)just got queue number at 0.82 hours
-2980.69: Load 26 (L_donor)just got queue number at 0.83 hours
-3001.59: Load 14 (L_donor)finished blood test at 0.83 hours
-3025.83: Load 22 (L_donor)finished filling form at 0.84 hours
-3089.98: Load 22 (L_donor)just got queue number at 0.86 hours
-3090.15: Load 15 (L_donor)just got queue number at 0.86 hours
-3108.08: Load 28 (L_donor)just arrived at 0.86 hours
-3241.59: Load 16 (L_donor)finished blood test at 0.90 hours
-3276.00: Load 27 (L_donor)just got queue number at 0.91 hours
-3303.44: Load 29 (L_donor)just arrived at 0.92 hours
-3341.18: Load 11 (L_donor)finished medical screening at 0.93 hours
-3350.48: Load 16 (L_donor)finished blood donation at 0.93 hours
-3388.82: Load 21 (L_donor)finished medical screening at 0.94 hours
-3422.13: Load 12 (L_donor)finished blood donation at 0.95 hours
-3449.72: Load 14 (L_donor)finished blood donation at 0.96 hours
-3460.84: Load 30 (L_donor)just arrived at 0.96 hours
-3480.27: Load 20 (L_donor)finished medical screening at 0.97 hours
-3481.59: Load 18 (L_donor)finished blood test at 0.97 hours
-3518.10: Load 23 (L_donor)finished medical screening at 0.98 hours
-3518.19: Load 19 (L_donor)finished medical screening at 0.98 hours
-3640.63: Load 31 (L_donor)just arrived at 1.01 hours
-3642.87: Load 15 (L_donor)finished medical screening at 1.01 hours
-3650.18: Load 32 (L_donor)just arrived at 1.01 hours
-3710.75: Load 32 (L_donor)finished filling form at 1.03 hours
-3713.48: Load 25 (L_donor)finished medical screening at 1.03 hours
-3721.59: Load 17 (L_donor)finished blood test at 1.03 hours
-3725.18: Load 33 (L_donor)just arrived at 1.03 hours
-3786.18: Load 31 (L_donor)finished filling form at 1.05 hours
-3829.12: Load 4 (L_donor)finished blood donation at 1.06 hours
-3830.13: Load 34 (L_donor)just arrived at 1.06 hours
-3832.98: Load 31 (L_donor)just got queue number at 1.06 hours
-3945.64: Load 33 (L_donor)finished filling form at 1.10 hours
-3956.70: Load 35 (L_donor)just arrived at 1.10 hours
-3961.59: Load 24 (L_donor)finished blood test at 1.10 hours
-3964.03: Load 36 (L_donor)just arrived at 1.10 hours
-3967.42: Load 29 (L_donor)finished filling form at 1.10 hours
-4038.36: Load 28 (L_donor)finished filling form at 1.12 hours
-4071.88: Load 33 (L_donor)just got queue number at 1.13 hours
-4087.98: Load 17 (L_donor)finished blood donation at 1.14 hours
-4119.75: Load 36 (L_donor)finished filling form at 1.14 hours
-4196.80: Load 37 (L_donor)just arrived at 1.17 hours
-4201.59: Load 11 (L_donor)finished blood test at 1.17 hours
-4203.64: Load 38 (L_donor)just arrived at 1.17 hours
-4236.13: Load 26 (L_donor)finished medical screening at 1.18 hours
-4239.27: Load 39 (L_donor)just arrived at 1.18 hours
-4314.98: Load 34 (L_donor)finished filling form at 1.20 hours
-4377.12: Load 40 (L_donor)just arrived at 1.22 hours
-4415.48: Load 35 (L_donor)finished filling form at 1.23 hours
-4417.79: Load 41 (L_donor)just arrived at 1.23 hours
-4439.30: Load 30 (L_donor)finished filling form at 1.23 hours
-4441.59: Load 21 (L_donor)finished blood test at 1.23 hours
-4442.54: Load 31 (L_donor)finished medical screening at 1.23 hours
-4459.50: Load 28 (L_donor)just got queue number at 1.24 hours
-4473.87: Load 36 (L_donor)just got queue number at 1.24 hours
-4480.09: Load 22 (L_donor)finished medical screening at 1.24 hours
-4481.58: Load 11 (L_donor)finished blood donation at 1.24 hours
-4533.86: Load 40 (L_donor)finished filling form at 1.26 hours
-4630.00: Load 38 (L_donor)finished filling form at 1.29 hours
-4673.23: Load 37 (L_donor)finished filling form at 1.30 hours
-4681.59: Load 20 (L_donor)finished blood test at 1.30 hours
-4709.40: Load 42 (L_donor)just arrived at 1.31 hours
-4724.65: Load 27 (L_donor)finished medical screening at 1.31 hours
-4745.62: Load 33 (L_donor)finished medical screening at 1.32 hours
-4755.70: Load 43 (L_donor)just arrived at 1.32 hours
-4772.29: Load 43 (L_donor)finished filling form at 1.33 hours
-4790.19: Load 44 (L_donor)just arrived at 1.33 hours
-4791.68: Load 42 (L_donor)finished filling form at 1.33 hours
-4816.35: Load 45 (L_donor)just arrived at 1.34 hours
-4817.92: Load 45 (L_donor)finished filling form at 1.34 hours
-4873.71: Load 44 (L_donor)finished filling form at 1.35 hours
-4886.85: Load 46 (L_donor)just arrived at 1.36 hours
-4910.98: Load 47 (L_donor)just arrived at 1.36 hours
-4911.56: Load 47 (L_donor)finished filling form at 1.36 hours
-4920.43: Load 34 (L_donor)just got queue number at 1.37 hours
-4921.59: Load 23 (L_donor)finished blood test at 1.37 hours
-4933.04: Load 34 (L_donor)finished medical screening at 1.37 hours
-4935.47: Load 48 (L_donor)just arrived at 1.37 hours
-5007.83: Load 28 (L_donor)finished medical screening at 1.39 hours
-5014.42: Load 48 (L_donor)finished filling form at 1.39 hours
-5022.26: Load 49 (L_donor)just arrived at 1.40 hours
-5082.07: Load 50 (L_donor)just arrived at 1.41 hours
-5140.28: Load 35 (L_donor)just got queue number at 1.43 hours
-5150.92: Load 39 (L_donor)finished filling form at 1.43 hours
-5161.59: Load 19 (L_donor)finished blood test at 1.43 hours
-5189.07: Load 46 (L_donor)finished filling form at 1.44 hours
-5214.58: Load 35 (L_donor)finished medical screening at 1.45 hours
-5235.10: Load 21 (L_donor)finished blood donation at 1.45 hours
-5240.03: Load 41 (L_donor)finished filling form at 1.46 hours
-5296.11: Load 40 (L_donor)just got queue number at 1.47 hours
-5328.05: Load 51 (L_donor)just arrived at 1.48 hours
-5353.76: Load 40 (L_donor)finished medical screening at 1.49 hours
-5401.59: Load 15 (L_donor)finished blood test at 1.50 hours
-5431.87: Load 52 (L_donor)just arrived at 1.51 hours
-5478.96: Load 20 (L_donor)finished blood donation at 1.52 hours
-5527.43: Load 51 (L_donor)finished filling form at 1.54 hours
-5533.01: Load 50 (L_donor)finished filling form at 1.54 hours
-5540.77: Load 53 (L_donor)just arrived at 1.54 hours
-5555.13: Load 37 (L_donor)just got queue number at 1.54 hours
-5568.17: Load 37 (L_donor)finished medical screening at 1.55 hours
-5573.31: Load 18 (L_donor)finished blood donation at 1.55 hours
-5611.36: Load 54 (L_donor)just arrived at 1.56 hours
-5641.59: Load 25 (L_donor)finished blood test at 1.57 hours
-5655.78: Load 24 (L_donor)finished blood donation at 1.57 hours
-5714.40: Load 15 (L_donor)finished blood donation at 1.59 hours
-5740.47: Load 36 (L_donor)finished medical screening at 1.59 hours
-5755.78: Load 55 (L_donor)just arrived at 1.60 hours
-5781.66: Load 56 (L_donor)just arrived at 1.61 hours
-5862.64: Load 49 (L_donor)finished filling form at 1.63 hours
-5881.59: Load 26 (L_donor)finished blood test at 1.63 hours
-5933.76: Load 25 (L_donor)finished blood donation at 1.65 hours
-5956.15: Load 56 (L_donor)finished filling form at 1.65 hours
-5994.38: Load 57 (L_donor)just arrived at 1.67 hours
-6041.43: Load 58 (L_donor)just arrived at 1.68 hours
-6046.11: Load 59 (L_donor)just arrived at 1.68 hours
-6071.80: Load 19 (L_donor)finished blood donation at 1.69 hours
-6077.09: Load 42 (L_donor)just got queue number at 1.69 hours
-6114.93: Load 59 (L_donor)finished filling form at 1.70 hours
-6116.65: Load 26 (L_donor)finished blood donation at 1.70 hours
-6121.59: Load 31 (L_donor)finished blood test at 1.70 hours
-6144.42: Load 54 (L_donor)finished filling form at 1.71 hours
-6186.98: Load 42 (L_donor)finished medical screening at 1.72 hours
-6188.03: Load 60 (L_donor)just arrived at 1.72 hours
-6203.01: Load 61 (L_donor)just arrived at 1.72 hours
-6243.04: Load 62 (L_donor)just arrived at 1.73 hours
-6282.07: Load 53 (L_donor)finished filling form at 1.75 hours
-6291.48: Load 45 (L_donor)just got queue number at 1.75 hours
-6311.57: Load 60 (L_donor)finished filling form at 1.75 hours
-6331.74: Load 57 (L_donor)finished filling form at 1.76 hours
-6352.49: Load 62 (L_donor)finished filling form at 1.76 hours
-6360.49: Load 58 (L_donor)finished filling form at 1.77 hours
-6361.59: Load 22 (L_donor)finished blood test at 1.77 hours
-6375.15: Load 63 (L_donor)just arrived at 1.77 hours
-6385.80: Load 23 (L_donor)finished blood donation at 1.77 hours
-6407.16: Load 55 (L_donor)finished filling form at 1.78 hours
-6442.20: Load 44 (L_donor)just got queue number at 1.79 hours
-6451.12: Load 52 (L_donor)finished filling form at 1.79 hours
-6473.62: Load 44 (L_donor)finished medical screening at 1.80 hours
-6529.57: Load 32 (L_donor)just got queue number at 1.81 hours
-6537.36: Load 61 (L_donor)finished filling form at 1.82 hours
-6596.60: Load 29 (L_donor)just got queue number at 1.83 hours
-6601.59: Load 27 (L_donor)finished blood test at 1.83 hours
-6731.73: Load 48 (L_donor)just got queue number at 1.87 hours
-6742.71: Load 64 (L_donor)just arrived at 1.87 hours
-6814.73: Load 45 (L_donor)finished medical screening at 1.89 hours
-6841.59: Load 33 (L_donor)finished blood test at 1.90 hours
-6849.64: Load 30 (L_donor)just got queue number at 1.90 hours
-6867.13: Load 38 (L_donor)just got queue number at 1.91 hours
-6905.97: Load 43 (L_donor)just got queue number at 1.92 hours
-6931.94: Load 64 (L_donor)finished filling form at 1.93 hours
-6945.18: Load 65 (L_donor)just arrived at 1.93 hours
-6946.76: Load 33 (L_donor)finished blood donation at 1.93 hours
-6952.66: Load 27 (L_donor)finished blood donation at 1.93 hours
-6981.25: Load 22 (L_donor)finished blood donation at 1.94 hours
-7014.78: Load 39 (L_donor)just got queue number at 1.95 hours
-7032.64: Load 29 (L_donor)finished medical screening at 1.95 hours
-7072.23: Load 30 (L_donor)finished medical screening at 1.96 hours
-7079.51: Load 46 (L_donor)just got queue number at 1.97 hours
-7081.59: Load 34 (L_donor)finished blood test at 1.97 hours
-7097.00: Load 66 (L_donor)just arrived at 1.97 hours
-7104.35: Load 47 (L_donor)just got queue number at 1.97 hours
-7132.30: Load 67 (L_donor)just arrived at 1.98 hours
-7143.15: Load 68 (L_donor)just arrived at 1.98 hours
-7186.86: Load 51 (L_donor)just got queue number at 2.00 hours
-7190.27: Load 68 (L_donor)finished filling form at 2.00 hours
-7213.03: Load 67 (L_donor)finished filling form at 2.00 hours
-7222.19: Load 63 (L_donor)finished filling form at 2.01 hours
-7280.86: Load 69 (L_donor)just arrived at 2.02 hours
-7321.59: Load 28 (L_donor)finished blood test at 2.03 hours
-7345.95: Load 46 (L_donor)finished medical screening at 2.04 hours
-7364.02: Load 34 (L_donor)finished blood donation at 2.05 hours
-7369.19: Load 41 (L_donor)just got queue number at 2.05 hours
-7472.01: Load 54 (L_donor)just got queue number at 2.08 hours
-7489.17: Load 31 (L_donor)finished blood donation at 2.08 hours
-7508.69: Load 53 (L_donor)just got queue number at 2.09 hours
-7521.03: Load 50 (L_donor)just got queue number at 2.09 hours
-7544.03: Load 70 (L_donor)just arrived at 2.10 hours
-7545.49: Load 69 (L_donor)finished filling form at 2.10 hours
-7551.76: Load 47 (L_donor)finished medical screening at 2.10 hours
-7561.59: Load 35 (L_donor)finished blood test at 2.10 hours
-7593.45: Load 66 (L_donor)finished filling form at 2.11 hours
-7675.63: Load 70 (L_donor)finished filling form at 2.13 hours
-7676.50: Load 57 (L_donor)just got queue number at 2.13 hours
-7685.20: Load 49 (L_donor)just got queue number at 2.13 hours
-7701.95: Load 51 (L_donor)finished medical screening at 2.14 hours
-7721.15: Load 55 (L_donor)just got queue number at 2.14 hours
-7745.68: Load 61 (L_donor)just got queue number at 2.15 hours
-7801.59: Load 40 (L_donor)finished blood test at 2.17 hours
-7809.76: Load 28 (L_donor)finished blood donation at 2.17 hours
-7877.66: Load 56 (L_donor)just got queue number at 2.19 hours
-7910.30: Load 41 (L_donor)finished medical screening at 2.20 hours
-7925.69: Load 64 (L_donor)just got queue number at 2.20 hours
-7938.57: Load 65 (L_donor)finished filling form at 2.21 hours
-7982.43: Load 59 (L_donor)just got queue number at 2.22 hours
-8006.25: Load 71 (L_donor)just arrived at 2.22 hours
-8041.59: Load 37 (L_donor)finished blood test at 2.23 hours
-8054.11: Load 54 (L_donor)finished medical screening at 2.24 hours
-8080.53: Load 71 (L_donor)finished filling form at 2.24 hours
-8169.70: Load 60 (L_donor)just got queue number at 2.27 hours
-8191.77: Load 35 (L_donor)finished blood donation at 2.28 hours
-8216.84: Load 68 (L_donor)just got queue number at 2.28 hours
-8281.59: Load 36 (L_donor)finished blood test at 2.30 hours
-8290.26: Load 62 (L_donor)just got queue number at 2.30 hours
-8352.97: Load 58 (L_donor)just got queue number at 2.32 hours
-8379.96: Load 63 (L_donor)just got queue number at 2.33 hours
-8384.65: Load 72 (L_donor)just arrived at 2.33 hours
-8392.33: Load 69 (L_donor)just got queue number at 2.33 hours
-8425.95: Load 73 (L_donor)just arrived at 2.34 hours
-8465.72: Load 73 (L_donor)finished filling form at 2.35 hours
-8509.02: Load 53 (L_donor)finished medical screening at 2.36 hours
-8521.59: Load 42 (L_donor)finished blood test at 2.37 hours
-8610.61: Load 57 (L_donor)finished medical screening at 2.39 hours
-8636.75: Load 52 (L_donor)just got queue number at 2.40 hours
-8761.59: Load 44 (L_donor)finished blood test at 2.43 hours
-8764.22: Load 61 (L_donor)finished medical screening at 2.43 hours
-8768.38: Load 36 (L_donor)finished blood donation at 2.44 hours
-8832.21: Load 44 (L_donor)finished blood donation at 2.45 hours
-8924.59: Load 40 (L_donor)finished blood donation at 2.48 hours
-9001.59: Load 45 (L_donor)finished blood test at 2.50 hours
-9023.72: Load 74 (L_donor)just arrived at 2.51 hours
-9089.41: Load 75 (L_donor)just arrived at 2.52 hours
-9102.69: Load 66 (L_donor)just got queue number at 2.53 hours
-9135.35: Load 72 (L_donor)finished filling form at 2.54 hours
-9138.21: Load 71 (L_donor)just got queue number at 2.54 hours
-9148.67: Load 76 (L_donor)just arrived at 2.54 hours
-9175.47: Load 67 (L_donor)just got queue number at 2.55 hours
-9184.96: Load 76 (L_donor)finished filling form at 2.55 hours
-9190.22: Load 75 (L_donor)finished filling form at 2.55 hours
-9238.09: Load 70 (L_donor)just got queue number at 2.57 hours
-9241.59: Load 29 (L_donor)finished blood test at 2.57 hours
-9244.32: Load 77 (L_donor)just arrived at 2.57 hours
-9304.30: Load 74 (L_donor)finished filling form at 2.58 hours
-9359.89: Load 77 (L_donor)finished filling form at 2.60 hours
-9403.77: Load 65 (L_donor)just got queue number at 2.61 hours
-9413.94: Load 60 (L_donor)finished medical screening at 2.61 hours
-9416.57: Load 78 (L_donor)just arrived at 2.62 hours
-9450.75: Load 79 (L_donor)just arrived at 2.63 hours
-9481.59: Load 30 (L_donor)finished blood test at 2.63 hours
-9524.60: Load 78 (L_donor)finished filling form at 2.65 hours
-9549.86: Load 79 (L_donor)finished filling form at 2.65 hours
-9608.01: Load 29 (L_donor)finished blood donation at 2.67 hours
-9667.79: Load 75 (L_donor)just got queue number at 2.69 hours
-9708.56: Load 80 (L_donor)just arrived at 2.70 hours
-9721.59: Load 46 (L_donor)finished blood test at 2.70 hours
-9747.38: Load 68 (L_donor)finished medical screening at 2.71 hours
-9887.44: Load 37 (L_donor)finished blood donation at 2.75 hours
-9961.59: Load 47 (L_donor)finished blood test at 2.77 hours
-9963.72: Load 74 (L_donor)just got queue number at 2.77 hours
-10056.15: Load 79 (L_donor)just got queue number at 2.79 hours
-10059.64: Load 81 (L_donor)just arrived at 2.79 hours
-10124.74: Load 62 (L_donor)finished medical screening at 2.81 hours
-10173.06: Load 80 (L_donor)finished filling form at 2.83 hours
-10174.53: Load 80 (L_donor)just got queue number at 2.83 hours
-10201.59: Load 51 (L_donor)finished blood test at 2.83 hours
-10240.26: Load 82 (L_donor)just arrived at 2.84 hours
-10346.02: Load 83 (L_donor)just arrived at 2.87 hours
-10382.61: Load 83 (L_donor)finished filling form at 2.88 hours
-10441.59: Load 41 (L_donor)finished blood test at 2.90 hours
-10469.27: Load 67 (L_donor)finished medical screening at 2.91 hours
-10616.46: Load 83 (L_donor)just got queue number at 2.95 hours
-10616.86: Load 84 (L_donor)just arrived at 2.95 hours
-10669.50: Load 41 (L_donor)finished blood donation at 2.96 hours
-10681.59: Load 54 (L_donor)finished blood test at 2.97 hours
-10700.58: Load 85 (L_donor)just arrived at 2.97 hours
-10710.45: Load 86 (L_donor)just arrived at 2.98 hours
-10711.50: Load 45 (L_donor)finished blood donation at 2.98 hours
-10742.46: Load 82 (L_donor)finished filling form at 2.98 hours
-10782.60: Load 87 (L_donor)just arrived at 3.00 hours
-10827.93: Load 30 (L_donor)finished blood donation at 3.01 hours
-10835.34: Load 88 (L_donor)just arrived at 3.01 hours
-10848.28: Load 84 (L_donor)finished filling form at 3.01 hours
-10857.68: Load 86 (L_donor)finished filling form at 3.02 hours
-10891.41: Load 89 (L_donor)just arrived at 3.03 hours
-10921.59: Load 53 (L_donor)finished blood test at 3.03 hours
-10921.92: Load 90 (L_donor)just arrived at 3.03 hours
-10937.21: Load 91 (L_donor)just arrived at 3.04 hours
-10961.10: Load 51 (L_donor)finished blood donation at 3.04 hours
-10973.76: Load 89 (L_donor)finished filling form at 3.05 hours
-10973.77: Load 81 (L_donor)finished filling form at 3.05 hours
-10976.72: Load 92 (L_donor)just arrived at 3.05 hours
-10980.20: Load 47 (L_donor)finished blood donation at 3.05 hours
-11034.81: Load 82 (L_donor)just got queue number at 3.07 hours
-11041.16: Load 93 (L_donor)just arrived at 3.07 hours
-11051.39: Load 53 (L_donor)finished blood donation at 3.07 hours
-11102.56: Load 91 (L_donor)finished filling form at 3.08 hours
-11111.57: Load 87 (L_donor)finished filling form at 3.09 hours
-11161.59: Load 57 (L_donor)finished blood test at 3.10 hours
-11282.89: Load 85 (L_donor)finished filling form at 3.13 hours
-11292.36: Load 94 (L_donor)just arrived at 3.14 hours
-11321.62: Load 84 (L_donor)just got queue number at 3.14 hours
-11375.10: Load 93 (L_donor)finished filling form at 3.16 hours
-11401.59: Load 61 (L_donor)finished blood test at 3.17 hours
-11495.26: Load 95 (L_donor)just arrived at 3.19 hours
-11555.08: Load 96 (L_donor)just arrived at 3.21 hours
-11572.47: Load 81 (L_donor)just got queue number at 3.21 hours
-11580.36: Load 97 (L_donor)just arrived at 3.22 hours
-11585.29: Load 91 (L_donor)just got queue number at 3.22 hours
-11640.42: Load 92 (L_donor)finished filling form at 3.23 hours
-11641.59: Load 60 (L_donor)finished blood test at 3.23 hours
-11643.07: Load 90 (L_donor)finished filling form at 3.23 hours
-11651.60: Load 95 (L_donor)finished filling form at 3.24 hours
-11663.66: Load 97 (L_donor)finished filling form at 3.24 hours
-11697.38: Load 92 (L_donor)just got queue number at 3.25 hours
-11699.05: Load 95 (L_donor)just got queue number at 3.25 hours
-11782.79: Load 98 (L_donor)just arrived at 3.27 hours
-11869.53: Load 94 (L_donor)finished filling form at 3.30 hours
-11879.87: Load 94 (L_donor)just got queue number at 3.30 hours
-11881.59: Load 68 (L_donor)finished blood test at 3.30 hours
-11927.33: Load 99 (L_donor)just arrived at 3.31 hours
-11933.76: Load 96 (L_donor)finished filling form at 3.31 hours
-11953.53: Load 73 (L_donor)just got queue number at 3.32 hours
-11963.65: Load 96 (L_donor)just got queue number at 3.32 hours
-11999.78: Load 42 (L_donor)finished blood donation at 3.33 hours
-12080.46: Load 100 (L_donor)just arrived at 3.36 hours
-12121.59: Load 62 (L_donor)finished blood test at 3.37 hours
-12152.26: Load 99 (L_donor)finished filling form at 3.38 hours
-12208.45: Load 101 (L_donor)just arrived at 3.39 hours
-12287.30: Load 98 (L_donor)finished filling form at 3.41 hours
-12305.79: Load 99 (L_donor)just got queue number at 3.42 hours
-12314.59: Load 102 (L_donor)just arrived at 3.42 hours
-12331.40: Load 88 (L_donor)finished filling form at 3.43 hours
-12361.59: Load 67 (L_donor)finished blood test at 3.43 hours
-12390.14: Load 103 (L_donor)just arrived at 3.44 hours
-12393.05: Load 72 (L_donor)just got queue number at 3.44 hours
-12450.92: Load 46 (L_donor)finished blood donation at 3.46 hours
-12455.60: Load 104 (L_donor)just arrived at 3.46 hours
-12478.34: Load 105 (L_donor)just arrived at 3.47 hours
-12478.39: Load 105 (L_donor)finished filling form at 3.47 hours
-12501.00: Load 62 (L_donor)finished blood donation at 3.47 hours
-12511.73: Load 60 (L_donor)finished blood donation at 3.48 hours
-12531.29: Load 100 (L_donor)finished filling form at 3.48 hours
-12542.17: Load 76 (L_donor)just got queue number at 3.48 hours
-12544.36: Load 54 (L_donor)finished blood donation at 3.48 hours
-12567.78: Load 103 (L_donor)finished filling form at 3.49 hours
-12575.96: Load 77 (L_donor)just got queue number at 3.49 hours
-12585.16: Load 106 (L_donor)just arrived at 3.50 hours
-12599.70: Load 106 (L_donor)finished filling form at 3.50 hours
-12659.21: Load 88 (L_donor)just got queue number at 3.52 hours
-12723.45: Load 107 (L_donor)just arrived at 3.53 hours
-12733.83: Load 68 (L_donor)finished blood donation at 3.54 hours
-12774.49: Load 108 (L_donor)just arrived at 3.55 hours
-12827.18: Load 108 (L_donor)finished filling form at 3.56 hours
-12852.32: Load 102 (L_donor)finished filling form at 3.57 hours
-12853.29: Load 106 (L_donor)just got queue number at 3.57 hours
-12882.13: Load 32 (L_donor)finished medical screening at 3.58 hours
-12894.24: Load 109 (L_donor)just arrived at 3.58 hours
-13011.18: Load 101 (L_donor)finished filling form at 3.61 hours
-13040.33: Load 110 (L_donor)just arrived at 3.62 hours
-13076.26: Load 109 (L_donor)finished filling form at 3.63 hours
-13100.34: Load 111 (L_donor)just arrived at 3.64 hours
-13122.13: Load 32 (L_donor)finished blood test at 3.65 hours
-13134.46: Load 111 (L_donor)finished filling form at 3.65 hours
-13140.58: Load 104 (L_donor)finished filling form at 3.65 hours
-13172.75: Load 107 (L_donor)finished filling form at 3.66 hours
-13188.07: Load 101 (L_donor)just got queue number at 3.66 hours
-13191.92: Load 61 (L_donor)finished blood donation at 3.66 hours
-13253.42: Load 112 (L_donor)just arrived at 3.68 hours
-13318.89: Load 112 (L_donor)finished filling form at 3.70 hours
-13425.73: Load 110 (L_donor)finished filling form at 3.73 hours
-13487.13: Load 32 (L_donor)finished blood donation at 3.75 hours
-13487.72: Load 78 (L_donor)just got queue number at 3.75 hours
-13514.67: Load 113 (L_donor)just arrived at 3.75 hours
-13525.16: Load 114 (L_donor)just arrived at 3.76 hours
-13529.39: Load 48 (L_donor)finished medical screening at 3.76 hours
-13561.61: Load 38 (L_donor)finished medical screening at 3.77 hours
-13662.92: Load 114 (L_donor)finished filling form at 3.80 hours
-13769.39: Load 48 (L_donor)finished blood test at 3.82 hours
-13797.89: Load 113 (L_donor)finished filling form at 3.83 hours
-13854.20: Load 43 (L_donor)finished medical screening at 3.85 hours
-13882.71: Load 86 (L_donor)just got queue number at 3.86 hours
-13945.77: Load 115 (L_donor)just arrived at 3.87 hours
-13969.65: Load 115 (L_donor)finished filling form at 3.88 hours
-13970.53: Load 109 (L_donor)just got queue number at 3.88 hours
-13973.28: Load 116 (L_donor)just arrived at 3.88 hours
-13994.54: Load 57 (L_donor)finished blood donation at 3.89 hours
-14009.39: Load 38 (L_donor)finished blood test at 3.89 hours
-14014.00: Load 67 (L_donor)finished blood donation at 3.89 hours
-14080.89: Load 48 (L_donor)finished blood donation at 3.91 hours
-14086.35: Load 116 (L_donor)finished filling form at 3.91 hours
-14101.70: Load 111 (L_donor)just got queue number at 3.92 hours
-14106.58: Load 117 (L_donor)just arrived at 3.92 hours
-14125.62: Load 117 (L_donor)finished filling form at 3.92 hours
-14177.78: Load 104 (L_donor)just got queue number at 3.94 hours
-14203.03: Load 89 (L_donor)just got queue number at 3.95 hours
-14236.48: Load 107 (L_donor)just got queue number at 3.95 hours
-14249.39: Load 43 (L_donor)finished blood test at 3.96 hours
-14304.85: Load 87 (L_donor)just got queue number at 3.97 hours
-14311.20: Load 114 (L_donor)just got queue number at 3.98 hours
-14312.77: Load 38 (L_donor)finished blood donation at 3.98 hours
-14316.07: Load 39 (L_donor)finished medical screening at 3.98 hours
-14525.46: Load 113 (L_donor)just got queue number at 4.03 hours
-14537.08: Load 118 (L_donor)just arrived at 4.04 hours
-14539.57: Load 85 (L_donor)just got queue number at 4.04 hours
-14556.07: Load 39 (L_donor)finished blood test at 4.04 hours
-14583.20: Load 115 (L_donor)just got queue number at 4.05 hours
-14595.59: Load 119 (L_donor)just arrived at 4.05 hours
-14644.60: Load 43 (L_donor)finished blood donation at 4.07 hours
-14656.04: Load 118 (L_donor)finished filling form at 4.07 hours
-14681.88: Load 83 (L_donor)finished medical screening at 4.08 hours
-14771.23: Load 39 (L_donor)finished blood donation at 4.10 hours
-14772.62: Load 82 (L_donor)finished medical screening at 4.10 hours
-14809.05: Load 116 (L_donor)just got queue number at 4.11 hours
+968.30: Load 10 (L_donor)just arrived at 0.27 hours
+1111.22: Load 10 (L_donor)finished filling form at 0.31 hours
+1123.31: Load 9 (L_donor)finished filling form at 0.31 hours
+1132.48: Load 10 (L_donor)just got queue number at 0.31 hours
+1143.89: Load 8 (L_donor)finished filling form at 0.32 hours
+1153.94: Load 9 (L_donor)just got queue number at 0.32 hours
+1157.78: Load 11 (L_donor)just arrived at 0.32 hours
+1160.48: Load 12 (L_donor)just arrived at 0.32 hours
+1210.33: Load 7 (L_donor)finished filling form at 0.34 hours
+1221.16: Load 7 (L_donor)just got queue number at 0.34 hours
+1224.37: Load 13 (L_donor)just arrived at 0.34 hours
+1279.09: Load 12 (L_donor)finished filling form at 0.36 hours
+1295.88: Load 14 (L_donor)just arrived at 0.36 hours
+1321.84: Load 13 (L_donor)finished filling form at 0.37 hours
+1322.48: Load 6 (L_donor)finished medical screening at 0.37 hours
+1370.31: Load 15 (L_donor)just arrived at 0.38 hours
+1376.05: Load 4 (L_donor)finished blood test at 0.38 hours
+1378.73: Load 11 (L_donor)finished filling form at 0.38 hours
+1379.23: Load 10 (L_donor)finished medical screening at 0.38 hours
+1471.27: Load 5 (L_donor)finished blood test at 0.41 hours
+1481.73: Load 6 (L_donor)finished blood test at 0.41 hours
+1549.24: Load 10 (L_donor)finished blood test at 0.43 hours
+1590.73: Load 16 (L_donor)just arrived at 0.44 hours
+1600.23: Load 15 (L_donor)finished filling form at 0.44 hours
+1632.92: Load 17 (L_donor)just arrived at 0.45 hours
+1638.26: Load 12 (L_donor)just got queue number at 0.46 hours
+1642.67: Load 18 (L_donor)just arrived at 0.46 hours
+1684.92: Load 9 (L_donor)finished medical screening at 0.47 hours
+1700.91: Load 17 (L_donor)finished filling form at 0.47 hours
+1715.92: Load 8 (L_donor)just got queue number at 0.48 hours
+1723.88: Load 11 (L_donor)just got queue number at 0.48 hours
+1729.60: Load 9 (L_donor)finished blood test at 0.48 hours
+1736.74: Load 16 (L_donor)finished filling form at 0.48 hours
+1736.78: Load 19 (L_donor)just arrived at 0.48 hours
+1748.40: Load 10 (L_donor)finished blood donation at 0.49 hours
+1765.74: Load 19 (L_donor)finished filling form at 0.49 hours
+1783.40: Load 6 (L_donor)finished blood donation at 0.50 hours
+1792.40: Load 13 (L_donor)just got queue number at 0.50 hours
+1802.80: Load 12 (L_donor)finished medical screening at 0.50 hours
+1817.19: Load 17 (L_donor)just got queue number at 0.50 hours
+1817.55: Load 12 (L_donor)finished blood test at 0.50 hours
+1822.69: Load 15 (L_donor)just got queue number at 0.51 hours
+1840.80: Load 18 (L_donor)finished filling form at 0.51 hours
+1866.77: Load 16 (L_donor)just got queue number at 0.52 hours
+1902.21: Load 9 (L_donor)finished blood donation at 0.53 hours
+1904.14: Load 19 (L_donor)just got queue number at 0.53 hours
+1917.50: Load 18 (L_donor)just got queue number at 0.53 hours
+1929.57: Load 7 (L_donor)finished medical screening at 0.54 hours
+1941.41: Load 7 (L_donor)finished blood test at 0.54 hours
+1977.71: Load 20 (L_donor)just arrived at 0.55 hours
+2008.99: Load 21 (L_donor)just arrived at 0.56 hours
+2065.40: Load 14 (L_donor)finished filling form at 0.57 hours
+2120.20: Load 21 (L_donor)finished filling form at 0.59 hours
+2180.27: Load 22 (L_donor)just arrived at 0.61 hours
+2203.34: Load 13 (L_donor)finished medical screening at 0.61 hours
+2206.56: Load 21 (L_donor)just got queue number at 0.61 hours
+2230.90: Load 13 (L_donor)finished blood test at 0.62 hours
+2261.96: Load 23 (L_donor)just arrived at 0.63 hours
+2272.37: Load 15 (L_donor)finished medical screening at 0.63 hours
+2300.76: Load 24 (L_donor)just arrived at 0.64 hours
+2406.12: Load 23 (L_donor)finished filling form at 0.67 hours
+2441.41: Load 24 (L_donor)finished filling form at 0.68 hours
+2443.36: Load 25 (L_donor)just arrived at 0.68 hours
+2489.06: Load 20 (L_donor)finished filling form at 0.69 hours
+2550.29: Load 25 (L_donor)finished filling form at 0.71 hours
+2556.57: Load 26 (L_donor)just arrived at 0.71 hours
+2556.60: Load 12 (L_donor)finished blood donation at 0.71 hours
+2585.61: Load 23 (L_donor)just got queue number at 0.72 hours
+2601.95: Load 24 (L_donor)just got queue number at 0.72 hours
+2608.58: Load 14 (L_donor)just got queue number at 0.72 hours
+2632.40: Load 20 (L_donor)just got queue number at 0.73 hours
+2680.47: Load 27 (L_donor)just arrived at 0.74 hours
+2838.05: Load 25 (L_donor)just got queue number at 0.79 hours
+2860.26: Load 28 (L_donor)just arrived at 0.79 hours
+2860.34: Load 28 (L_donor)finished filling form at 0.79 hours
+2874.67: Load 28 (L_donor)just got queue number at 0.80 hours
+2875.30: Load 7 (L_donor)finished blood donation at 0.80 hours
+2876.00: Animation step is now 2 Seconds.
+2876.39: Load 21 (L_donor)finished medical screening at 0.80 hours
+2889.99: Load 15 (L_donor)finished blood test at 0.80 hours
+2949.06: Load 23 (L_donor)finished medical screening at 0.82 hours
+2950.58: Load 8 (L_donor)finished medical screening at 0.82 hours
+2994.87: Load 11 (L_donor)finished medical screening at 0.83 hours
+3044.96: Load 26 (L_donor)finished filling form at 0.85 hours
+3069.43: Load 29 (L_donor)just arrived at 0.85 hours
+3184.22: Load 26 (L_donor)just got queue number at 0.88 hours
+3227.55: Load 29 (L_donor)finished filling form at 0.90 hours
+3238.42: Load 21 (L_donor)finished blood test at 0.90 hours
+3263.92: Load 25 (L_donor)finished medical screening at 0.91 hours
+3272.62: Load 30 (L_donor)just arrived at 0.91 hours
+3310.00: Animation step is now 4 Seconds.
+3315.01: Load 28 (L_donor)finished medical screening at 0.92 hours
+3374.57: Load 17 (L_donor)finished medical screening at 0.94 hours
+3410.85: Load 31 (L_donor)just arrived at 0.95 hours
+3481.47: Load 16 (L_donor)finished medical screening at 0.97 hours
+3502.82: Load 29 (L_donor)just got queue number at 0.97 hours
+3504.61: Load 4 (L_donor)finished blood donation at 0.97 hours
+3581.39: Load 32 (L_donor)just arrived at 0.99 hours
+3614.15: Load 31 (L_donor)finished filling form at 1.00 hours
+3624.83: Load 29 (L_donor)finished medical screening at 1.01 hours
+3644.09: Load 33 (L_donor)just arrived at 1.01 hours
+3658.93: Load 27 (L_donor)finished filling form at 1.02 hours
+3723.44: Load 34 (L_donor)just arrived at 1.03 hours
+3737.25: Load 35 (L_donor)just arrived at 1.04 hours
+3744.14: Load 8 (L_donor)finished blood test at 1.04 hours
+3761.36: Load 22 (L_donor)finished filling form at 1.04 hours
+3771.91: Load 32 (L_donor)finished filling form at 1.05 hours
+3803.24: Load 35 (L_donor)finished filling form at 1.06 hours
+3818.77: Load 36 (L_donor)just arrived at 1.06 hours
+3835.37: Load 36 (L_donor)finished filling form at 1.07 hours
+3853.27: Load 37 (L_donor)just arrived at 1.07 hours
+3879.42: Load 38 (L_donor)just arrived at 1.08 hours
+3896.66: Load 33 (L_donor)finished filling form at 1.08 hours
+3903.61: Load 11 (L_donor)finished blood test at 1.08 hours
+3918.65: Load 30 (L_donor)finished filling form at 1.09 hours
+3935.49: Load 39 (L_donor)just arrived at 1.09 hours
+3936.06: Load 39 (L_donor)finished filling form at 1.09 hours
+3936.78: Load 37 (L_donor)finished filling form at 1.09 hours
+3959.97: Load 40 (L_donor)just arrived at 1.10 hours
+3962.00: Animation step is now 8 Seconds.
+4055.67: Load 38 (L_donor)finished filling form at 1.13 hours
+4106.39: Load 41 (L_donor)just arrived at 1.14 hours
+4107.49: Load 31 (L_donor)just got queue number at 1.14 hours
+4176.96: Load 40 (L_donor)finished filling form at 1.16 hours
+4245.02: Load 28 (L_donor)finished blood test at 1.18 hours
+4281.07: Load 5 (L_donor)finished blood donation at 1.19 hours
+4350.60: Load 42 (L_donor)just arrived at 1.21 hours
+4357.23: Load 41 (L_donor)finished filling form at 1.21 hours
+4420.46: Load 15 (L_donor)finished blood donation at 1.23 hours
+4442.43: Load 43 (L_donor)just arrived at 1.23 hours
+4452.79: Load 17 (L_donor)finished blood test at 1.24 hours
+4467.70: Load 34 (L_donor)finished filling form at 1.24 hours
+4476.46: Load 32 (L_donor)just got queue number at 1.24 hours
+4492.69: Load 28 (L_donor)finished blood donation at 1.25 hours
+4575.45: Load 19 (L_donor)finished medical screening at 1.27 hours
+4578.16: Load 42 (L_donor)finished filling form at 1.27 hours
+4622.08: Load 44 (L_donor)just arrived at 1.28 hours
+4639.81: Load 30 (L_donor)just got queue number at 1.29 hours
+4641.80: Load 18 (L_donor)finished medical screening at 1.29 hours
+4642.36: Load 11 (L_donor)finished blood donation at 1.29 hours
+4646.34: Load 37 (L_donor)just got queue number at 1.29 hours
+4660.42: Load 16 (L_donor)finished blood test at 1.29 hours
+4690.16: Load 38 (L_donor)just got queue number at 1.30 hours
+4692.67: Load 45 (L_donor)just arrived at 1.30 hours
+4698.49: Load 8 (L_donor)finished blood donation at 1.31 hours
+4716.18: Load 46 (L_donor)just arrived at 1.31 hours
+4722.01: Load 41 (L_donor)just got queue number at 1.31 hours
+4725.01: Load 45 (L_donor)finished filling form at 1.31 hours
+4763.23: Load 47 (L_donor)just arrived at 1.32 hours
+4790.76: Load 48 (L_donor)just arrived at 1.33 hours
+4813.81: Load 47 (L_donor)finished filling form at 1.34 hours
+4827.39: Load 49 (L_donor)just arrived at 1.34 hours
+4832.66: Load 13 (L_donor)finished blood donation at 1.34 hours
+4913.45: Load 34 (L_donor)just got queue number at 1.36 hours
+4964.15: Load 50 (L_donor)just arrived at 1.38 hours
+4978.00: Animation step is now 16 Seconds.
+5001.87: Load 43 (L_donor)finished filling form at 1.39 hours
+5013.56: Load 51 (L_donor)just arrived at 1.39 hours
+5053.54: Load 46 (L_donor)finished filling form at 1.40 hours
+5057.34: Load 52 (L_donor)just arrived at 1.40 hours
+5064.21: Load 50 (L_donor)finished filling form at 1.41 hours
+5075.08: Load 24 (L_donor)finished medical screening at 1.41 hours
+5085.85: Load 29 (L_donor)finished blood test at 1.41 hours
+5115.94: Load 31 (L_donor)finished medical screening at 1.42 hours
+5148.07: Load 48 (L_donor)finished filling form at 1.43 hours
+5200.04: Load 43 (L_donor)just got queue number at 1.44 hours
+5231.76: Load 53 (L_donor)just arrived at 1.45 hours
+5261.96: Load 49 (L_donor)finished filling form at 1.46 hours
+5308.56: Load 52 (L_donor)finished filling form at 1.47 hours
+5332.65: Load 54 (L_donor)just arrived at 1.48 hours
+5335.59: Load 54 (L_donor)finished filling form at 1.48 hours
+5363.39: Load 44 (L_donor)finished filling form at 1.49 hours
+5366.42: Load 55 (L_donor)just arrived at 1.49 hours
+5391.17: Load 53 (L_donor)finished filling form at 1.50 hours
+5489.56: Load 46 (L_donor)just got queue number at 1.52 hours
+5539.80: Load 51 (L_donor)finished filling form at 1.54 hours
+5547.00: Load 14 (L_donor)finished medical screening at 1.54 hours
+5566.13: Load 21 (L_donor)finished blood donation at 1.55 hours
+5581.98: Load 20 (L_donor)finished medical screening at 1.55 hours
+5598.52: Load 52 (L_donor)just got queue number at 1.56 hours
+5634.39: Load 38 (L_donor)finished medical screening at 1.57 hours
+5702.92: Load 56 (L_donor)just arrived at 1.58 hours
+5705.52: Load 29 (L_donor)finished blood donation at 1.58 hours
+5735.91: Load 56 (L_donor)finished filling form at 1.59 hours
+5746.07: Load 57 (L_donor)just arrived at 1.60 hours
+5820.97: Load 19 (L_donor)finished blood test at 1.62 hours
+5826.26: Load 54 (L_donor)just got queue number at 1.62 hours
+5834.89: Load 58 (L_donor)just arrived at 1.62 hours
+5838.18: Load 55 (L_donor)finished filling form at 1.62 hours
+5845.74: Load 59 (L_donor)just arrived at 1.62 hours
+5864.59: Load 60 (L_donor)just arrived at 1.63 hours
+5908.77: Load 56 (L_donor)just got queue number at 1.64 hours
+5915.61: Load 58 (L_donor)finished filling form at 1.64 hours
+5917.89: Load 55 (L_donor)just got queue number at 1.64 hours
+5978.74: Load 26 (L_donor)finished medical screening at 1.66 hours
+5991.12: Load 58 (L_donor)just got queue number at 1.66 hours
+6019.29: Load 30 (L_donor)finished medical screening at 1.67 hours
+6087.36: Load 61 (L_donor)just arrived at 1.69 hours
+6092.65: Load 37 (L_donor)finished medical screening at 1.69 hours
+6173.98: Load 19 (L_donor)finished blood donation at 1.71 hours
+6179.56: Load 17 (L_donor)finished blood donation at 1.72 hours
+6197.21: Load 60 (L_donor)finished filling form at 1.72 hours
+6218.13: Load 18 (L_donor)finished blood test at 1.73 hours
+6228.86: Load 57 (L_donor)finished filling form at 1.73 hours
+6276.16: Load 60 (L_donor)just got queue number at 1.74 hours
+6293.06: Load 57 (L_donor)just got queue number at 1.75 hours
+6314.37: Load 27 (L_donor)just got queue number at 1.75 hours
+6337.35: Load 59 (L_donor)finished filling form at 1.76 hours
+6344.17: Load 24 (L_donor)finished blood test at 1.76 hours
+6367.05: Load 61 (L_donor)finished filling form at 1.77 hours
+6419.84: Load 59 (L_donor)just got queue number at 1.78 hours
+6420.98: Load 34 (L_donor)finished medical screening at 1.78 hours
+6506.84: Load 22 (L_donor)just got queue number at 1.81 hours
+6524.61: Load 61 (L_donor)just got queue number at 1.81 hours
+6584.18: Load 31 (L_donor)finished blood test at 1.83 hours
+6643.60: Load 14 (L_donor)finished blood test at 1.85 hours
+6664.61: Load 35 (L_donor)just got queue number at 1.85 hours
+6699.67: Load 62 (L_donor)just arrived at 1.86 hours
+6718.74: Load 18 (L_donor)finished blood donation at 1.87 hours
+6785.18: Load 36 (L_donor)just got queue number at 1.88 hours
+6888.36: Load 33 (L_donor)just got queue number at 1.91 hours
+6899.09: Load 39 (L_donor)just got queue number at 1.92 hours
+6918.85: Load 63 (L_donor)just arrived at 1.92 hours
+6927.09: Load 64 (L_donor)just arrived at 1.92 hours
+6937.29: Load 20 (L_donor)finished blood test at 1.93 hours
+6955.49: Load 43 (L_donor)finished medical screening at 1.93 hours
+6967.02: Load 64 (L_donor)finished filling form at 1.94 hours
+6969.11: Load 38 (L_donor)finished blood test at 1.94 hours
+6971.54: Load 62 (L_donor)finished filling form at 1.94 hours
+6983.23: Load 26 (L_donor)finished blood test at 1.94 hours
+7022.11: Load 63 (L_donor)finished filling form at 1.95 hours
+7043.82: Load 64 (L_donor)just got queue number at 1.96 hours
+7057.08: Load 52 (L_donor)finished medical screening at 1.96 hours
+7064.02: Load 54 (L_donor)finished medical screening at 1.96 hours
+7111.35: Load 40 (L_donor)just got queue number at 1.98 hours
+7133.13: Load 42 (L_donor)just got queue number at 1.98 hours
+7195.75: Load 45 (L_donor)just got queue number at 2.00 hours
+7207.70: Load 30 (L_donor)finished blood test at 2.00 hours
+7227.37: Load 65 (L_donor)just arrived at 2.01 hours
+7265.91: Load 16 (L_donor)finished blood donation at 2.02 hours
+7280.98: Load 37 (L_donor)finished blood test at 2.02 hours
+7294.66: Load 58 (L_donor)finished medical screening at 2.03 hours
+7320.38: Load 34 (L_donor)finished blood test at 2.03 hours
+7335.71: Load 63 (L_donor)just got queue number at 2.04 hours
+7342.94: Load 65 (L_donor)finished filling form at 2.04 hours
+7399.61: Load 66 (L_donor)just arrived at 2.06 hours
+7414.31: Load 47 (L_donor)just got queue number at 2.06 hours
+7460.49: Load 66 (L_donor)finished filling form at 2.07 hours
+7521.12: Load 65 (L_donor)just got queue number at 2.09 hours
+7580.91: Load 67 (L_donor)just arrived at 2.11 hours
+7628.10: Load 35 (L_donor)finished medical screening at 2.12 hours
+7640.13: Load 26 (L_donor)finished blood donation at 2.12 hours
+7682.77: Load 68 (L_donor)just arrived at 2.13 hours
+7698.21: Load 36 (L_donor)finished medical screening at 2.14 hours
+7709.80: Load 66 (L_donor)just got queue number at 2.14 hours
+7717.05: Load 24 (L_donor)finished blood donation at 2.14 hours
+7752.52: Load 34 (L_donor)finished blood donation at 2.15 hours
+7808.31: Load 33 (L_donor)finished medical screening at 2.17 hours
+7835.99: Load 43 (L_donor)finished blood test at 2.18 hours
+7861.40: Load 67 (L_donor)finished filling form at 2.18 hours
+7863.40: Load 69 (L_donor)just arrived at 2.18 hours
+7883.14: Load 67 (L_donor)just got queue number at 2.19 hours
+7920.38: Load 69 (L_donor)finished filling form at 2.20 hours
+7940.93: Load 50 (L_donor)just got queue number at 2.21 hours
+8019.30: Load 70 (L_donor)just arrived at 2.23 hours
+8029.16: Load 71 (L_donor)just arrived at 2.23 hours
+8036.17: Load 39 (L_donor)finished medical screening at 2.23 hours
+8045.96: Load 69 (L_donor)just got queue number at 2.23 hours
+8101.32: Load 72 (L_donor)just arrived at 2.25 hours
+8159.98: Load 14 (L_donor)finished blood donation at 2.27 hours
+8176.40: Load 71 (L_donor)finished filling form at 2.27 hours
+8220.34: Load 48 (L_donor)just got queue number at 2.28 hours
+8232.90: Load 73 (L_donor)just arrived at 2.29 hours
+8241.50: Load 72 (L_donor)finished filling form at 2.29 hours
+8265.35: Load 73 (L_donor)finished filling form at 2.30 hours
+8265.84: Load 74 (L_donor)just arrived at 2.30 hours
+8266.11: Load 49 (L_donor)just got queue number at 2.30 hours
+8280.36: Load 71 (L_donor)just got queue number at 2.30 hours
+8305.35: Load 75 (L_donor)just arrived at 2.31 hours
+8312.24: Load 30 (L_donor)finished blood donation at 2.31 hours
+8377.67: Load 52 (L_donor)finished blood test at 2.33 hours
+8398.17: Load 54 (L_donor)finished blood test at 2.33 hours
+8431.20: Load 74 (L_donor)finished filling form at 2.34 hours
+8434.39: Load 76 (L_donor)just arrived at 2.34 hours
+8461.41: Load 58 (L_donor)finished blood test at 2.35 hours
+8522.08: Load 76 (L_donor)finished filling form at 2.37 hours
+8596.91: Load 68 (L_donor)finished filling form at 2.39 hours
+8601.60: Load 70 (L_donor)finished filling form at 2.39 hours
+8620.87: Load 40 (L_donor)finished medical screening at 2.39 hours
+8665.26: Load 77 (L_donor)just arrived at 2.41 hours
+8673.81: Load 78 (L_donor)just arrived at 2.41 hours
+8678.58: Load 72 (L_donor)just got queue number at 2.41 hours
+8707.12: Load 79 (L_donor)just arrived at 2.42 hours
+8717.51: Load 44 (L_donor)just got queue number at 2.42 hours
+8735.54: Load 73 (L_donor)just got queue number at 2.43 hours
+8737.21: Load 74 (L_donor)just got queue number at 2.43 hours
+8756.21: Load 78 (L_donor)finished filling form at 2.43 hours
+8783.37: Load 75 (L_donor)finished filling form at 2.44 hours
+8793.44: Load 53 (L_donor)just got queue number at 2.44 hours
+8794.14: Load 80 (L_donor)just arrived at 2.44 hours
+8819.48: Load 35 (L_donor)finished blood test at 2.45 hours
+8859.33: Load 36 (L_donor)finished blood test at 2.46 hours
+8868.85: Load 42 (L_donor)finished medical screening at 2.46 hours
+8879.36: Load 81 (L_donor)just arrived at 2.47 hours
+8917.30: Load 82 (L_donor)just arrived at 2.48 hours
+8954.03: Load 70 (L_donor)just got queue number at 2.49 hours
+9019.65: Load 83 (L_donor)just arrived at 2.51 hours
+9069.60: Load 51 (L_donor)just got queue number at 2.52 hours
+9084.93: Load 79 (L_donor)finished filling form at 2.52 hours
+9088.06: Load 81 (L_donor)finished filling form at 2.52 hours
+9111.22: Load 84 (L_donor)just arrived at 2.53 hours
+9119.34: Load 33 (L_donor)finished blood test at 2.53 hours
+9164.82: Load 39 (L_donor)finished blood test at 2.55 hours
+9164.86: Load 40 (L_donor)finished blood test at 2.55 hours
+9171.32: Load 77 (L_donor)finished filling form at 2.55 hours
+9176.68: Load 85 (L_donor)just arrived at 2.55 hours
+9176.94: Load 80 (L_donor)finished filling form at 2.55 hours
+9182.65: Load 82 (L_donor)finished filling form at 2.55 hours
+9279.19: Load 86 (L_donor)just arrived at 2.58 hours
+9288.86: Load 84 (L_donor)finished filling form at 2.58 hours
+9294.73: Load 87 (L_donor)just arrived at 2.58 hours
+9340.11: Load 86 (L_donor)finished filling form at 2.59 hours
+9345.78: Load 88 (L_donor)just arrived at 2.60 hours
+9366.85: Load 89 (L_donor)just arrived at 2.60 hours
+9392.25: Load 62 (L_donor)just got queue number at 2.61 hours
+9409.85: Load 45 (L_donor)finished medical screening at 2.61 hours
+9412.74: Load 79 (L_donor)just got queue number at 2.61 hours
+9415.12: Load 88 (L_donor)finished filling form at 2.62 hours
+9445.55: Load 45 (L_donor)finished blood test at 2.62 hours
+9506.38: Load 90 (L_donor)just arrived at 2.64 hours
+9520.03: Load 91 (L_donor)just arrived at 2.64 hours
+9591.55: Load 92 (L_donor)just arrived at 2.66 hours
+9597.63: Load 90 (L_donor)finished filling form at 2.67 hours
+9611.38: Load 76 (L_donor)just got queue number at 2.67 hours
+9614.45: Load 93 (L_donor)just arrived at 2.67 hours
+9630.18: Load 83 (L_donor)finished filling form at 2.68 hours
+9643.98: Load 80 (L_donor)just got queue number at 2.68 hours
+9650.66: Load 68 (L_donor)just got queue number at 2.68 hours
+9659.72: Load 84 (L_donor)just got queue number at 2.68 hours
+9675.82: Load 86 (L_donor)just got queue number at 2.69 hours
+9697.59: Load 89 (L_donor)finished filling form at 2.69 hours
+9713.43: Load 52 (L_donor)finished blood donation at 2.70 hours
+9744.04: Load 87 (L_donor)finished filling form at 2.71 hours
+9763.63: Load 66 (L_donor)finished medical screening at 2.71 hours
+9844.78: Load 43 (L_donor)finished blood donation at 2.73 hours
+9850.49: Load 90 (L_donor)just got queue number at 2.74 hours
+9853.67: Load 40 (L_donor)finished blood donation at 2.74 hours
+9854.03: Load 92 (L_donor)finished filling form at 2.74 hours
+9938.21: Load 48 (L_donor)finished medical screening at 2.76 hours
+9947.37: Load 94 (L_donor)just arrived at 2.76 hours
+9981.66: Load 83 (L_donor)just got queue number at 2.77 hours
+9990.82: Load 93 (L_donor)finished filling form at 2.78 hours
+10025.49: Load 95 (L_donor)just arrived at 2.78 hours
+10029.22: Load 49 (L_donor)finished medical screening at 2.79 hours
+10061.35: Load 96 (L_donor)just arrived at 2.79 hours
+10101.67: Load 91 (L_donor)finished filling form at 2.81 hours
+10113.45: Load 33 (L_donor)finished blood donation at 2.81 hours
+10129.23: Load 97 (L_donor)just arrived at 2.81 hours
+10152.96: Load 97 (L_donor)finished filling form at 2.82 hours
+10161.20: Load 85 (L_donor)finished filling form at 2.82 hours
+10168.75: Load 98 (L_donor)just arrived at 2.82 hours
+10190.73: Load 66 (L_donor)finished blood test at 2.83 hours
+10206.88: Load 96 (L_donor)finished filling form at 2.84 hours
+10226.05: Load 71 (L_donor)finished medical screening at 2.84 hours
+10233.01: Load 39 (L_donor)finished blood donation at 2.84 hours
+10281.57: Load 78 (L_donor)just got queue number at 2.86 hours
+10307.73: Load 48 (L_donor)finished blood test at 2.86 hours
+10311.59: Load 99 (L_donor)just arrived at 2.86 hours
+10317.84: Load 75 (L_donor)just got queue number at 2.87 hours
+10368.17: Load 31 (L_donor)finished blood donation at 2.88 hours
+10387.21: Load 99 (L_donor)finished filling form at 2.89 hours
+10390.63: Load 100 (L_donor)just arrived at 2.89 hours
+10534.57: Load 94 (L_donor)finished filling form at 2.93 hours
+10560.58: Load 38 (L_donor)finished blood donation at 2.93 hours
+10575.65: Load 66 (L_donor)finished blood donation at 2.94 hours
+10580.58: Load 101 (L_donor)just arrived at 2.94 hours
+10596.51: Load 81 (L_donor)just got queue number at 2.94 hours
+10616.43: Load 100 (L_donor)finished filling form at 2.95 hours
+10627.42: Load 89 (L_donor)just got queue number at 2.95 hours
+10646.57: Load 37 (L_donor)finished blood donation at 2.96 hours
+10666.58: Load 87 (L_donor)just got queue number at 2.96 hours
+10674.42: Load 102 (L_donor)just arrived at 2.97 hours
+10674.96: Load 102 (L_donor)finished filling form at 2.97 hours
+10683.82: Load 98 (L_donor)finished filling form at 2.97 hours
+10687.63: Load 91 (L_donor)just got queue number at 2.97 hours
+10767.42: Load 103 (L_donor)just arrived at 2.99 hours
+10805.94: Load 104 (L_donor)just arrived at 3.00 hours
+10817.50: Load 58 (L_donor)finished blood donation at 3.00 hours
+10838.96: Load 41 (L_donor)finished medical screening at 3.01 hours
+10842.18: Load 105 (L_donor)just arrived at 3.01 hours
+10874.99: Load 45 (L_donor)finished blood donation at 3.02 hours
+10888.77: Load 49 (L_donor)finished blood test at 3.02 hours
+10889.41: Load 71 (L_donor)finished blood test at 3.02 hours
+10901.71: Load 77 (L_donor)just got queue number at 3.03 hours
+10943.32: Load 103 (L_donor)finished filling form at 3.04 hours
+11007.20: Load 95 (L_donor)finished filling form at 3.06 hours
+11013.03: Load 82 (L_donor)just got queue number at 3.06 hours
+11039.41: Load 106 (L_donor)just arrived at 3.07 hours
+11042.91: Load 105 (L_donor)finished filling form at 3.07 hours
+11049.19: Load 49 (L_donor)finished blood donation at 3.07 hours
+11051.10: Load 46 (L_donor)finished medical screening at 3.07 hours
+11094.83: Load 104 (L_donor)finished filling form at 3.08 hours
+11129.24: Load 85 (L_donor)just got queue number at 3.09 hours
+11139.25: Load 96 (L_donor)just got queue number at 3.09 hours
+11145.78: Load 88 (L_donor)just got queue number at 3.10 hours
+11208.70: Load 92 (L_donor)just got queue number at 3.11 hours
+11225.16: Load 56 (L_donor)finished medical screening at 3.12 hours
+11225.96: Load 93 (L_donor)just got queue number at 3.12 hours
+11231.12: Load 54 (L_donor)finished blood donation at 3.12 hours
+11234.61: Load 98 (L_donor)just got queue number at 3.12 hours
+11273.31: Load 55 (L_donor)finished medical screening at 3.13 hours
+11307.80: Load 101 (L_donor)finished filling form at 3.14 hours
+11340.74: Load 95 (L_donor)just got queue number at 3.15 hours
+11396.82: Load 97 (L_donor)just got queue number at 3.17 hours
+11398.65: Load 107 (L_donor)just arrived at 3.17 hours
+11416.70: Load 35 (L_donor)finished blood donation at 3.17 hours
+11477.89: Load 41 (L_donor)finished blood test at 3.19 hours
+11492.11: Load 108 (L_donor)just arrived at 3.19 hours
+11530.27: Load 108 (L_donor)finished filling form at 3.20 hours
+11554.76: Load 101 (L_donor)just got queue number at 3.21 hours
+11568.06: Load 109 (L_donor)just arrived at 3.21 hours
+11572.87: Load 109 (L_donor)finished filling form at 3.21 hours
+11608.16: Load 99 (L_donor)just got queue number at 3.22 hours
+11613.33: Load 110 (L_donor)just arrived at 3.23 hours
+11632.79: Load 57 (L_donor)finished medical screening at 3.23 hours
+11651.08: Load 107 (L_donor)finished filling form at 3.24 hours
+11657.20: Load 106 (L_donor)finished filling form at 3.24 hours
+11703.95: Load 111 (L_donor)just arrived at 3.25 hours
+11750.27: Load 110 (L_donor)finished filling form at 3.26 hours
+11784.55: Load 108 (L_donor)just got queue number at 3.27 hours
+11789.46: Load 36 (L_donor)finished blood donation at 3.27 hours
+11817.15: Load 109 (L_donor)just got queue number at 3.28 hours
+11829.26: Load 46 (L_donor)finished blood test at 3.29 hours
+11881.19: Load 27 (L_donor)finished medical screening at 3.30 hours
+11887.57: Load 107 (L_donor)just got queue number at 3.30 hours
+11890.77: Load 112 (L_donor)just arrived at 3.30 hours
+11916.02: Load 113 (L_donor)just arrived at 3.31 hours
+11930.20: Load 113 (L_donor)finished filling form at 3.31 hours
+11930.61: Load 94 (L_donor)just got queue number at 3.31 hours
+11975.32: Load 112 (L_donor)finished filling form at 3.33 hours
+12087.02: Load 100 (L_donor)just got queue number at 3.36 hours
+12094.55: Load 114 (L_donor)just arrived at 3.36 hours
+12155.40: Load 114 (L_donor)finished filling form at 3.38 hours
+12192.00: Load 55 (L_donor)finished blood test at 3.39 hours
+12199.88: Load 111 (L_donor)finished filling form at 3.39 hours
+12231.62: Load 113 (L_donor)just got queue number at 3.40 hours
+12240.44: Load 102 (L_donor)just got queue number at 3.40 hours
+12285.78: Load 71 (L_donor)finished blood donation at 3.41 hours
+12287.71: Load 57 (L_donor)finished blood test at 3.41 hours
+12308.63: Load 115 (L_donor)just arrived at 3.42 hours
+12313.37: Load 116 (L_donor)just arrived at 3.42 hours
+12314.42: Load 59 (L_donor)finished medical screening at 3.42 hours
+12468.02: Load 22 (L_donor)finished medical screening at 3.46 hours
+12468.09: Load 103 (L_donor)just got queue number at 3.46 hours
+12475.67: Load 117 (L_donor)just arrived at 3.47 hours
+12477.44: Load 116 (L_donor)finished filling form at 3.47 hours
+12484.74: Load 116 (L_donor)just got queue number at 3.47 hours
+12518.33: Load 117 (L_donor)finished filling form at 3.48 hours
+12544.18: Load 117 (L_donor)just got queue number at 3.48 hours
+12575.39: Load 105 (L_donor)just got queue number at 3.49 hours
+12579.05: Load 115 (L_donor)finished filling form at 3.49 hours
+12592.98: Load 118 (L_donor)just arrived at 3.50 hours
+12652.28: Load 119 (L_donor)just arrived at 3.51 hours
+12654.05: Load 118 (L_donor)finished filling form at 3.52 hours
+12654.21: Load 46 (L_donor)finished blood donation at 3.52 hours
+12656.50: Load 120 (L_donor)just arrived at 3.52 hours
+12660.72: Load 27 (L_donor)finished blood test at 3.52 hours
+12682.59: Load 121 (L_donor)just arrived at 3.52 hours
+12682.60: Load 61 (L_donor)finished medical screening at 3.52 hours
+12696.32: Load 64 (L_donor)finished medical screening at 3.53 hours
+12714.12: Load 119 (L_donor)finished filling form at 3.53 hours
+12726.07: Load 122 (L_donor)just arrived at 3.54 hours
+12796.00: Load 121 (L_donor)finished filling form at 3.55 hours
+12809.88: Load 123 (L_donor)just arrived at 3.56 hours
+12809.89: Load 120 (L_donor)finished filling form at 3.56 hours
+12816.41: Load 123 (L_donor)finished filling form at 3.56 hours
+12829.21: Load 124 (L_donor)just arrived at 3.56 hours
+12833.48: Load 104 (L_donor)just got queue number at 3.56 hours
+12860.80: Load 59 (L_donor)finished blood test at 3.57 hours
+12884.96: Load 122 (L_donor)finished filling form at 3.58 hours
+12909.37: Load 106 (L_donor)just got queue number at 3.59 hours
+12914.99: Load 20 (L_donor)finished blood donation at 3.59 hours
+13001.94: Load 110 (L_donor)just got queue number at 3.61 hours
+13044.10: Load 125 (L_donor)just arrived at 3.62 hours
+13044.56: Load 112 (L_donor)just got queue number at 3.62 hours
+13046.49: Load 124 (L_donor)finished filling form at 3.62 hours
+13051.37: Load 115 (L_donor)just got queue number at 3.63 hours
+13070.46: Load 126 (L_donor)just arrived at 3.63 hours
+13090.52: Load 114 (L_donor)just got queue number at 3.64 hours
+13101.62: Load 22 (L_donor)finished blood test at 3.64 hours
+13103.34: Load 48 (L_donor)finished blood donation at 3.64 hours
+13107.57: Load 127 (L_donor)just arrived at 3.64 hours
+13125.61: Load 128 (L_donor)just arrived at 3.65 hours
+13164.76: Load 111 (L_donor)just got queue number at 3.66 hours
+13187.70: Load 127 (L_donor)finished filling form at 3.66 hours
+13202.69: Load 121 (L_donor)just got queue number at 3.67 hours
+13229.03: Load 120 (L_donor)just got queue number at 3.67 hours
+13247.13: Load 57 (L_donor)finished blood donation at 3.68 hours
+13298.11: Load 128 (L_donor)finished filling form at 3.69 hours
+13335.80: Load 129 (L_donor)just arrived at 3.70 hours
+13342.93: Load 118 (L_donor)just got queue number at 3.71 hours
+13415.03: Load 123 (L_donor)just got queue number at 3.73 hours
+13418.94: Load 130 (L_donor)just arrived at 3.73 hours
+13445.20: Load 131 (L_donor)just arrived at 3.73 hours
+13448.10: Load 129 (L_donor)finished filling form at 3.74 hours
+13457.85: Load 130 (L_donor)finished filling form at 3.74 hours
+13464.43: Load 122 (L_donor)just got queue number at 3.74 hours
+13507.64: Load 126 (L_donor)finished filling form at 3.75 hours
+13571.59: Load 124 (L_donor)just got queue number at 3.77 hours
+13629.72: Load 119 (L_donor)just got queue number at 3.79 hours
+13657.38: Load 131 (L_donor)finished filling form at 3.79 hours
+13753.23: Load 61 (L_donor)finished blood test at 3.82 hours
+13757.65: Load 64 (L_donor)finished blood test at 3.82 hours
+13771.56: Load 132 (L_donor)just arrived at 3.83 hours
+13780.69: Load 127 (L_donor)just got queue number at 3.83 hours
+13783.13: Load 55 (L_donor)finished blood donation at 3.83 hours
+13791.10: Load 125 (L_donor)finished filling form at 3.83 hours
+13811.30: Load 126 (L_donor)just got queue number at 3.84 hours
+13885.77: Load 125 (L_donor)just got queue number at 3.86 hours
+13932.54: Load 128 (L_donor)just got queue number at 3.87 hours
+13933.56: Load 129 (L_donor)just got queue number at 3.87 hours
+13996.36: Load 132 (L_donor)finished filling form at 3.89 hours
+14003.58: Load 22 (L_donor)finished blood donation at 3.89 hours
+14037.16: Load 63 (L_donor)finished medical screening at 3.90 hours
+14089.26: Load 47 (L_donor)finished medical screening at 3.91 hours
+14096.80: Load 61 (L_donor)finished blood donation at 3.92 hours
+14141.90: Load 63 (L_donor)finished blood test at 3.93 hours
+14153.21: Load 133 (L_donor)just arrived at 3.93 hours
+14186.68: Load 134 (L_donor)just arrived at 3.94 hours
+14273.39: Load 135 (L_donor)just arrived at 3.96 hours
+14327.98: Load 65 (L_donor)finished medical screening at 3.98 hours
+14351.30: Load 134 (L_donor)finished filling form at 3.99 hours
+14362.86: Load 59 (L_donor)finished blood donation at 3.99 hours
+14364.73: Load 132 (L_donor)just got queue number at 3.99 hours
+14375.54: Load 136 (L_donor)just arrived at 3.99 hours
+14405.07: Load 135 (L_donor)finished filling form at 4.00 hours
+14405.47: Load 137 (L_donor)just arrived at 4.00 hours
+14412.05: Load 47 (L_donor)finished blood test at 4.00 hours
+14420.80: Load 138 (L_donor)just arrived at 4.01 hours
+14421.95: Load 65 (L_donor)finished blood test at 4.01 hours
+14425.22: Load 137 (L_donor)finished filling form at 4.01 hours
+14540.06: Load 139 (L_donor)just arrived at 4.04 hours
+14571.51: Load 134 (L_donor)just got queue number at 4.05 hours
+14598.26: Load 67 (L_donor)finished medical screening at 4.06 hours
+14618.72: Load 137 (L_donor)just got queue number at 4.06 hours
+14619.37: Load 140 (L_donor)just arrived at 4.06 hours
+14624.47: Load 133 (L_donor)finished filling form at 4.06 hours
+14635.92: Load 133 (L_donor)just got queue number at 4.07 hours
+14701.24: Load 141 (L_donor)just arrived at 4.08 hours
+14724.52: Load 141 (L_donor)finished filling form at 4.09 hours
+14806.36: Load 136 (L_donor)finished filling form at 4.11 hours
+14820.49: Load 140 (L_donor)finished filling form at 4.12 hours
+14873.79: Load 139 (L_donor)finished filling form at 4.13 hours
+14893.09: Load 138 (L_donor)finished filling form at 4.14 hours
+14920.11: Load 142 (L_donor)just arrived at 4.14 hours
+14953.28: Load 63 (L_donor)finished blood donation at 4.15 hours
+14975.11: Load 143 (L_donor)just arrived at 4.16 hours
+14991.00: Load 73 (L_donor)finished medical screening at 4.16 hours
+14995.62: Load 144 (L_donor)just arrived at 4.17 hours
+15070.89: Load 47 (L_donor)finished blood donation at 4.19 hours
+15087.99: Load 69 (L_donor)finished medical screening at 4.19 hours
+15114.96: Load 144 (L_donor)finished filling form at 4.20 hours
+15230.58: Load 143 (L_donor)finished filling form at 4.23 hours
+15315.28: Load 145 (L_donor)just arrived at 4.25 hours
+15333.80: Load 67 (L_donor)finished blood test at 4.26 hours
+15338.44: Load 74 (L_donor)finished medical screening at 4.26 hours
+15344.43: Load 146 (L_donor)just arrived at 4.26 hours
+15392.27: Load 141 (L_donor)just got queue number at 4.28 hours
+15467.16: Load 142 (L_donor)finished filling form at 4.30 hours
+15490.24: Load 145 (L_donor)finished filling form at 4.30 hours
+15499.19: Load 65 (L_donor)finished blood donation at 4.31 hours
+15501.18: Load 147 (L_donor)just arrived at 4.31 hours
+15544.52: Load 148 (L_donor)just arrived at 4.32 hours
+15673.12: Load 149 (L_donor)just arrived at 4.35 hours
+15674.81: Load 150 (L_donor)just arrived at 4.35 hours
+15704.26: Load 149 (L_donor)finished filling form at 4.36 hours
+15740.77: Load 73 (L_donor)finished blood test at 4.37 hours
+15797.71: Load 146 (L_donor)finished filling form at 4.39 hours
+15803.01: Load 151 (L_donor)just arrived at 4.39 hours
+15847.03: Load 147 (L_donor)finished filling form at 4.40 hours
+15858.57: Load 69 (L_donor)finished blood test at 4.41 hours
+16010.85: Load 74 (L_donor)finished blood test at 4.45 hours
+16013.15: Load 139 (L_donor)just got queue number at 4.45 hours
+16056.74: Load 152 (L_donor)just arrived at 4.46 hours
+16079.64: Load 138 (L_donor)just got queue number at 4.47 hours
+16091.33: Load 153 (L_donor)just arrived at 4.47 hours
+16102.11: Load 151 (L_donor)finished filling form at 4.47 hours
+16111.11: Load 154 (L_donor)just arrived at 4.48 hours
+16120.63: Load 154 (L_donor)finished filling form at 4.48 hours
+16146.72: Load 155 (L_donor)just arrived at 4.49 hours
+16158.00: Load 148 (L_donor)finished filling form at 4.49 hours
+16184.78: Load 72 (L_donor)finished medical screening at 4.50 hours
+16199.76: Load 41 (L_donor)finished blood donation at 4.50 hours
+16214.42: Load 153 (L_donor)finished filling form at 4.50 hours
+16217.31: Load 74 (L_donor)finished blood donation at 4.50 hours
+16233.27: Load 72 (L_donor)finished blood test at 4.51 hours
+16263.55: Load 156 (L_donor)just arrived at 4.52 hours
+16275.55: Load 156 (L_donor)finished filling form at 4.52 hours
+16286.47: Load 157 (L_donor)just arrived at 4.52 hours
+16297.27: Load 70 (L_donor)finished medical screening at 4.53 hours
+16330.65: Load 144 (L_donor)just got queue number at 4.54 hours
+16388.16: Load 158 (L_donor)just arrived at 4.55 hours
+16392.48: Load 150 (L_donor)finished filling form at 4.55 hours
+16395.75: Load 69 (L_donor)finished blood donation at 4.55 hours
+16425.30: Load 152 (L_donor)finished filling form at 4.56 hours
+16431.66: Load 159 (L_donor)just arrived at 4.56 hours
+16451.01: Load 160 (L_donor)just arrived at 4.57 hours
+16475.63: Load 158 (L_donor)finished filling form at 4.58 hours
+16492.63: Load 70 (L_donor)finished blood test at 4.58 hours
+16558.90: Load 161 (L_donor)just arrived at 4.60 hours
+16573.92: Load 146 (L_donor)just got queue number at 4.60 hours
+16606.84: Load 73 (L_donor)finished blood donation at 4.61 hours
+16628.05: Load 151 (L_donor)just got queue number at 4.62 hours
+16634.05: Load 154 (L_donor)just got queue number at 4.62 hours
+16636.66: Load 44 (L_donor)finished medical screening at 4.62 hours
+16645.69: Load 159 (L_donor)finished filling form at 4.62 hours
+16647.77: Load 152 (L_donor)just got queue number at 4.62 hours
+16650.40: Load 160 (L_donor)finished filling form at 4.63 hours
+16668.32: Load 162 (L_donor)just arrived at 4.63 hours
+16691.44: Load 161 (L_donor)finished filling form at 4.64 hours
+16712.70: Load 163 (L_donor)just arrived at 4.64 hours
+16714.77: Load 164 (L_donor)just arrived at 4.64 hours
+16715.36: Load 165 (L_donor)just arrived at 4.64 hours
+16799.77: Load 165 (L_donor)finished filling form at 4.67 hours
+16802.58: Load 130 (L_donor)just got queue number at 4.67 hours
+16822.28: Load 158 (L_donor)just got queue number at 4.67 hours
+16840.86: Load 164 (L_donor)finished filling form at 4.68 hours
+16841.59: Load 51 (L_donor)finished medical screening at 4.68 hours
+16911.05: Load 155 (L_donor)finished filling form at 4.70 hours
+16915.31: Load 62 (L_donor)finished medical screening at 4.70 hours
+16917.09: Load 166 (L_donor)just arrived at 4.70 hours
+16932.67: Load 167 (L_donor)just arrived at 4.70 hours
+16948.96: Load 44 (L_donor)finished blood test at 4.71 hours
+17002.94: Load 131 (L_donor)just got queue number at 4.72 hours
+17007.98: Load 79 (L_donor)finished medical screening at 4.72 hours
+17024.69: Load 168 (L_donor)just arrived at 4.73 hours
+17037.85: Load 51 (L_donor)finished blood test at 4.73 hours
+17050.82: Load 135 (L_donor)just got queue number at 4.74 hours
+17057.04: Load 163 (L_donor)finished filling form at 4.74 hours
+17063.78: Load 62 (L_donor)finished blood test at 4.74 hours
+17097.41: Load 159 (L_donor)just got queue number at 4.75 hours
+17127.24: Load 161 (L_donor)just got queue number at 4.76 hours
+17143.40: Load 166 (L_donor)finished filling form at 4.76 hours
+17229.22: Load 51 (L_donor)finished blood donation at 4.79 hours
+17240.09: Load 168 (L_donor)finished filling form at 4.79 hours
+17276.54: Load 68 (L_donor)finished medical screening at 4.80 hours
+17312.82: Load 169 (L_donor)just arrived at 4.81 hours
+17321.16: Load 155 (L_donor)just got queue number at 4.81 hours
+17332.67: Load 84 (L_donor)finished medical screening at 4.81 hours
+17340.40: Load 70 (L_donor)finished blood donation at 4.82 hours
+17360.40: Load 67 (L_donor)finished blood donation at 4.82 hours
+17389.51: Load 166 (L_donor)just got queue number at 4.83 hours
+17422.62: Load 168 (L_donor)just got queue number at 4.84 hours
+17466.32: Load 170 (L_donor)just arrived at 4.85 hours
+17483.88: Load 90 (L_donor)finished medical screening at 4.86 hours
+17489.77: Load 136 (L_donor)just got queue number at 4.86 hours
+17510.15: Load 170 (L_donor)finished filling form at 4.86 hours
+17512.70: Load 76 (L_donor)finished medical screening at 4.86 hours
+17594.86: Load 171 (L_donor)just arrived at 4.89 hours
+17601.51: Load 169 (L_donor)finished filling form at 4.89 hours
+17644.95: Load 167 (L_donor)finished filling form at 4.90 hours
+17649.03: Load 170 (L_donor)just got queue number at 4.90 hours
+17669.19: Load 140 (L_donor)just got queue number at 4.91 hours
+17708.37: Load 172 (L_donor)just arrived at 4.92 hours
+17719.53: Load 169 (L_donor)just got queue number at 4.92 hours
+17730.66: Load 173 (L_donor)just arrived at 4.93 hours
+17769.13: Load 174 (L_donor)just arrived at 4.94 hours
+17770.00: Load 173 (L_donor)finished filling form at 4.94 hours
+17773.15: Load 79 (L_donor)finished blood test at 4.94 hours
+17793.16: Load 72 (L_donor)finished blood donation at 4.94 hours
+17803.98: Load 175 (L_donor)just arrived at 4.95 hours
+17830.99: Load 80 (L_donor)finished medical screening at 4.95 hours
+17835.67: Load 143 (L_donor)just got queue number at 4.95 hours
+17841.34: Load 157 (L_donor)finished filling form at 4.96 hours
+17843.63: Load 86 (L_donor)finished medical screening at 4.96 hours
+17857.81: Load 172 (L_donor)finished filling form at 4.96 hours
+17876.65: Load 44 (L_donor)finished blood donation at 4.97 hours
+17878.09: Load 68 (L_donor)finished blood test at 4.97 hours
+17885.30: Load 167 (L_donor)just got queue number at 4.97 hours
+17906.01: Load 174 (L_donor)finished filling form at 4.97 hours
+17930.29: Load 172 (L_donor)just got queue number at 4.98 hours
+17963.87: Load 79 (L_donor)finished blood donation at 4.99 hours
+18001.33: Load 162 (L_donor)finished filling form at 5.00 hours
+18057.02: Load 176 (L_donor)just arrived at 5.02 hours
+18064.63: Load 83 (L_donor)finished medical screening at 5.02 hours
+18098.53: Load 177 (L_donor)just arrived at 5.03 hours
+18104.61: Load 174 (L_donor)just got queue number at 5.03 hours
+18126.74: Load 171 (L_donor)finished filling form at 5.04 hours
+18130.18: Load 178 (L_donor)just arrived at 5.04 hours
+18146.93: Load 178 (L_donor)finished filling form at 5.04 hours
+18231.51: Load 142 (L_donor)just got queue number at 5.06 hours
+18240.41: Load 145 (L_donor)just got queue number at 5.07 hours
+18240.79: Load 177 (L_donor)finished filling form at 5.07 hours
+18254.61: Load 149 (L_donor)just got queue number at 5.07 hours
+18313.01: Load 179 (L_donor)just arrived at 5.09 hours
+18328.20: Load 180 (L_donor)just arrived at 5.09 hours
+18335.45: Load 181 (L_donor)just arrived at 5.09 hours
+18355.23: Load 171 (L_donor)just got queue number at 5.10 hours
+18379.39: Load 147 (L_donor)just got queue number at 5.11 hours
+18393.02: Load 180 (L_donor)finished filling form at 5.11 hours
+18400.98: Load 182 (L_donor)just arrived at 5.11 hours
+18448.66: Load 75 (L_donor)finished medical screening at 5.12 hours
+18457.29: Load 178 (L_donor)just got queue number at 5.13 hours
+18474.10: Load 177 (L_donor)just got queue number at 5.13 hours
+18476.46: Load 176 (L_donor)finished filling form at 5.13 hours
+18486.68: Load 62 (L_donor)finished blood donation at 5.14 hours
+18498.88: Load 78 (L_donor)finished medical screening at 5.14 hours
+18531.66: Load 180 (L_donor)just got queue number at 5.15 hours
+18554.26: Load 175 (L_donor)finished filling form at 5.15 hours
+18566.78: Load 181 (L_donor)finished filling form at 5.16 hours
+18607.81: Load 183 (L_donor)just arrived at 5.17 hours
+18638.96: Load 176 (L_donor)just got queue number at 5.18 hours
+18644.77: Load 148 (L_donor)just got queue number at 5.18 hours
+18646.86: Load 175 (L_donor)just got queue number at 5.18 hours
+18650.62: Load 184 (L_donor)just arrived at 5.18 hours
+18656.51: Load 179 (L_donor)finished filling form at 5.18 hours
+18677.97: Load 64 (L_donor)finished blood donation at 5.19 hours
+18691.73: Load 185 (L_donor)just arrived at 5.19 hours
+18705.74: Load 186 (L_donor)just arrived at 5.20 hours
+18707.86: Load 184 (L_donor)finished filling form at 5.20 hours
+18759.83: Load 185 (L_donor)finished filling form at 5.21 hours
+18770.24: Load 153 (L_donor)just got queue number at 5.21 hours
+18781.09: Load 156 (L_donor)just got queue number at 5.22 hours
+18809.71: Load 81 (L_donor)finished medical screening at 5.22 hours
+18852.35: Load 179 (L_donor)just got queue number at 5.24 hours
+18917.89: Load 187 (L_donor)just arrived at 5.25 hours
+18920.95: Load 183 (L_donor)finished filling form at 5.26 hours
+18946.57: Load 188 (L_donor)just arrived at 5.26 hours
+18947.80: Load 89 (L_donor)finished medical screening at 5.26 hours
+18985.27: Load 189 (L_donor)just arrived at 5.27 hours
+19003.52: Load 150 (L_donor)just got queue number at 5.28 hours
+19101.66: Load 87 (L_donor)finished medical screening at 5.31 hours
+19108.20: Load 183 (L_donor)just got queue number at 5.31 hours
+19117.25: Load 88 (L_donor)finished medical screening at 5.31 hours
+19137.53: Load 190 (L_donor)just arrived at 5.32 hours
+19150.14: Load 186 (L_donor)finished filling form at 5.32 hours
+19151.84: Load 84 (L_donor)finished blood test at 5.32 hours
+19164.79: Load 188 (L_donor)finished filling form at 5.32 hours
+19185.02: Load 182 (L_donor)finished filling form at 5.33 hours
+19246.26: Load 191 (L_donor)just arrived at 5.35 hours
+19285.72: Load 189 (L_donor)finished filling form at 5.36 hours
+19293.65: Load 93 (L_donor)finished medical screening at 5.36 hours
+19300.87: Load 187 (L_donor)finished filling form at 5.36 hours
+19303.12: Load 91 (L_donor)finished medical screening at 5.36 hours
+19339.38: Load 186 (L_donor)just got queue number at 5.37 hours
+19380.28: Load 77 (L_donor)finished medical screening at 5.38 hours
+19381.23: Load 192 (L_donor)just arrived at 5.38 hours
+19392.16: Load 193 (L_donor)just arrived at 5.39 hours
+19422.42: Load 98 (L_donor)finished medical screening at 5.40 hours
+19437.49: Load 160 (L_donor)just got queue number at 5.40 hours
+19515.57: Load 90 (L_donor)finished blood test at 5.42 hours
+19550.58: Load 194 (L_donor)just arrived at 5.43 hours
+19573.61: Load 192 (L_donor)finished filling form at 5.44 hours
+19579.16: Load 165 (L_donor)just got queue number at 5.44 hours
+19642.48: Load 190 (L_donor)finished filling form at 5.46 hours
+19676.03: Load 164 (L_donor)just got queue number at 5.47 hours
+19710.52: Load 195 (L_donor)just arrived at 5.48 hours
+19727.59: Load 96 (L_donor)finished medical screening at 5.48 hours
+19740.16: Load 163 (L_donor)just got queue number at 5.48 hours
+19742.43: Load 196 (L_donor)just arrived at 5.48 hours
+19744.09: Load 95 (L_donor)finished medical screening at 5.48 hours
+19750.73: Load 188 (L_donor)just got queue number at 5.49 hours
+19763.29: Load 68 (L_donor)finished blood donation at 5.49 hours
+19768.40: Load 27 (L_donor)finished blood donation at 5.49 hours
+19768.46: Load 197 (L_donor)just arrived at 5.49 hours
+19796.36: Load 191 (L_donor)finished filling form at 5.50 hours
+19821.96: Load 195 (L_donor)finished filling form at 5.51 hours
+19833.55: Load 194 (L_donor)finished filling form at 5.51 hours
+19890.57: Load 90 (L_donor)finished blood donation at 5.53 hours
+19912.57: Load 97 (L_donor)finished medical screening at 5.53 hours
+19948.04: Load 197 (L_donor)finished filling form at 5.54 hours
+19965.44: Load 76 (L_donor)finished blood test at 5.55 hours
+19989.58: Load 193 (L_donor)finished filling form at 5.55 hours
+20017.58: Load 182 (L_donor)just got queue number at 5.56 hours
+20104.03: Load 173 (L_donor)just got queue number at 5.58 hours
+20130.18: Load 107 (L_donor)finished medical screening at 5.59 hours
+20132.02: Load 76 (L_donor)finished blood donation at 5.59 hours
+20145.26: Load 80 (L_donor)finished blood test at 5.60 hours
+20160.14: Load 80 (L_donor)finished blood donation at 5.60 hours
+20172.87: Load 157 (L_donor)just got queue number at 5.60 hours
+20212.70: Load 198 (L_donor)just arrived at 5.61 hours
+20236.28: Load 113 (L_donor)finished medical screening at 5.62 hours
+20275.37: Load 189 (L_donor)just got queue number at 5.63 hours
+20279.77: Load 192 (L_donor)just got queue number at 5.63 hours
+20283.63: Load 191 (L_donor)just got queue number at 5.63 hours
+20326.75: Load 194 (L_donor)just got queue number at 5.65 hours
+20503.72: Load 199 (L_donor)just arrived at 5.70 hours
+20516.79: Load 198 (L_donor)finished filling form at 5.70 hours
+20533.88: Load 86 (L_donor)finished blood test at 5.70 hours
+20544.31: Load 162 (L_donor)just got queue number at 5.71 hours
+20553.05: Load 181 (L_donor)just got queue number at 5.71 hours
+20556.72: Load 199 (L_donor)finished filling form at 5.71 hours
+20593.29: Load 83 (L_donor)finished blood test at 5.72 hours
+20605.25: Load 101 (L_donor)finished medical screening at 5.72 hours
+20615.75: Load 193 (L_donor)just got queue number at 5.73 hours
+20670.25: Load 75 (L_donor)finished blood test at 5.74 hours
+20751.53: Load 103 (L_donor)finished medical screening at 5.76 hours
+20765.47: Load 86 (L_donor)finished blood donation at 5.77 hours
+20803.62: Load 200 (L_donor)just arrived at 5.78 hours
+20891.89: Load 196 (L_donor)finished filling form at 5.80 hours
+20922.37: Load 199 (L_donor)just got queue number at 5.81 hours
+20967.64: Load 117 (L_donor)finished medical screening at 5.82 hours
+20987.86: Load 201 (L_donor)just arrived at 5.83 hours
+21048.98: Load 84 (L_donor)finished blood donation at 5.85 hours
+21057.98: Load 202 (L_donor)just arrived at 5.85 hours
+21081.33: Load 196 (L_donor)just got queue number at 5.86 hours
+21133.55: Load 203 (L_donor)just arrived at 5.87 hours
+21154.47: Load 200 (L_donor)finished filling form at 5.88 hours
+21168.84: Load 201 (L_donor)finished filling form at 5.88 hours
+21315.24: Load 204 (L_donor)just arrived at 5.92 hours
+21379.03: Load 205 (L_donor)just arrived at 5.94 hours
+21410.21: Load 206 (L_donor)just arrived at 5.95 hours
+21411.37: Load 200 (L_donor)just got queue number at 5.95 hours
+21419.55: Load 83 (L_donor)finished blood donation at 5.95 hours
+21470.33: Load 202 (L_donor)finished filling form at 5.96 hours
+21470.45: Load 207 (L_donor)just arrived at 5.96 hours
+21503.03: Load 203 (L_donor)finished filling form at 5.97 hours
+21507.64: Load 78 (L_donor)finished blood test at 5.97 hours
+21541.66: Load 208 (L_donor)just arrived at 5.98 hours
+21559.28: Load 81 (L_donor)finished blood test at 5.99 hours
+21567.33: Load 209 (L_donor)just arrived at 5.99 hours
+21590.27: Load 184 (L_donor)just got queue number at 6.00 hours
+21590.88: Load 207 (L_donor)finished filling form at 6.00 hours
+21596.36: Load 89 (L_donor)finished blood test at 6.00 hours
+21613.78: Load 75 (L_donor)finished blood donation at 6.00 hours
+21677.28: Load 202 (L_donor)just got queue number at 6.02 hours
+21680.96: Load 78 (L_donor)finished blood donation at 6.02 hours
+21683.58: Load 207 (L_donor)just got queue number at 6.02 hours
+21727.91: Load 208 (L_donor)finished filling form at 6.04 hours
+21765.17: Load 210 (L_donor)just arrived at 6.05 hours
+21778.23: Load 205 (L_donor)finished filling form at 6.05 hours
+21792.86: Load 208 (L_donor)just got queue number at 6.05 hours
+21799.37: Load 209 (L_donor)finished filling form at 6.06 hours
+21804.00: Load 185 (L_donor)just got queue number at 6.06 hours
+21835.67: Load 105 (L_donor)finished medical screening at 6.07 hours
+21837.01: Load 204 (L_donor)finished filling form at 6.07 hours
+21841.59: Load 211 (L_donor)just arrived at 6.07 hours
+21852.75: Load 187 (L_donor)just got queue number at 6.07 hours
+21856.23: Load 210 (L_donor)finished filling form at 6.07 hours
+21914.54: Load 104 (L_donor)finished medical screening at 6.09 hours
+21918.92: Load 87 (L_donor)finished blood test at 6.09 hours
+21932.59: Load 88 (L_donor)finished blood test at 6.09 hours
+21946.55: Load 212 (L_donor)just arrived at 6.10 hours
+21953.95: Load 213 (L_donor)just arrived at 6.10 hours
+21998.11: Load 209 (L_donor)just got queue number at 6.11 hours
+21999.34: Load 206 (L_donor)finished filling form at 6.11 hours
+22057.00: Load 110 (L_donor)finished medical screening at 6.13 hours
+22070.70: Load 211 (L_donor)finished filling form at 6.13 hours
+22105.26: Load 93 (L_donor)finished blood test at 6.14 hours
+22119.86: Load 87 (L_donor)finished blood donation at 6.14 hours
+22153.76: Load 214 (L_donor)just arrived at 6.15 hours
+22170.81: Load 212 (L_donor)finished filling form at 6.16 hours
+22190.44: Load 215 (L_donor)just arrived at 6.16 hours
+22192.87: Load 216 (L_donor)just arrived at 6.16 hours
+22204.53: Load 213 (L_donor)finished filling form at 6.17 hours
+22233.80: Load 216 (L_donor)finished filling form at 6.18 hours
+22276.11: Load 91 (L_donor)finished blood test at 6.19 hours
+22283.16: Load 204 (L_donor)just got queue number at 6.19 hours
+22290.65: Load 217 (L_donor)just arrived at 6.19 hours
+22324.09: Load 214 (L_donor)finished filling form at 6.20 hours
+22331.23: Load 93 (L_donor)finished blood donation at 6.20 hours
+22369.86: Load 210 (L_donor)just got queue number at 6.21 hours
+22378.15: Load 218 (L_donor)just arrived at 6.22 hours
+22381.09: Load 206 (L_donor)just got queue number at 6.22 hours
+22415.90: Load 219 (L_donor)just arrived at 6.23 hours
+22420.76: Load 114 (L_donor)finished medical screening at 6.23 hours
+22444.91: Load 220 (L_donor)just arrived at 6.23 hours
+22474.65: Load 91 (L_donor)finished blood donation at 6.24 hours
+22479.81: Load 217 (L_donor)finished filling form at 6.24 hours
+22507.89: Load 221 (L_donor)just arrived at 6.25 hours
+22511.39: Load 220 (L_donor)finished filling form at 6.25 hours
+22518.98: Load 120 (L_donor)finished medical screening at 6.26 hours
+22519.26: Load 219 (L_donor)finished filling form at 6.26 hours
+22525.22: Load 77 (L_donor)finished blood test at 6.26 hours
+22530.48: Load 222 (L_donor)just arrived at 6.26 hours
+22540.95: Load 119 (L_donor)finished medical screening at 6.26 hours
+22545.70: Load 108 (L_donor)finished medical screening at 6.26 hours
+22604.23: Load 190 (L_donor)just got queue number at 6.28 hours
+22614.13: Load 128 (L_donor)finished medical screening at 6.28 hours
+22634.86: Load 195 (L_donor)just got queue number at 6.29 hours
+22755.94: Load 211 (L_donor)just got queue number at 6.32 hours
+22783.51: Load 197 (L_donor)just got queue number at 6.33 hours
+22798.89: Load 98 (L_donor)finished blood test at 6.33 hours
+22802.84: Load 221 (L_donor)finished filling form at 6.33 hours
+22830.91: Load 215 (L_donor)finished filling form at 6.34 hours
+22841.66: Load 223 (L_donor)just arrived at 6.34 hours
+22844.49: Load 214 (L_donor)just got queue number at 6.35 hours
+22844.94: Load 224 (L_donor)just arrived at 6.35 hours
+22877.08: Load 109 (L_donor)finished medical screening at 6.35 hours
+22902.03: Load 225 (L_donor)just arrived at 6.36 hours
+22923.60: Load 134 (L_donor)finished medical screening at 6.37 hours
+22926.11: Load 218 (L_donor)finished filling form at 6.37 hours
+22967.06: Load 224 (L_donor)finished filling form at 6.38 hours
+22985.92: Load 225 (L_donor)finished filling form at 6.38 hours
+22986.30: Load 226 (L_donor)just arrived at 6.39 hours
+22990.82: Load 88 (L_donor)finished blood donation at 6.39 hours
+23067.75: Load 223 (L_donor)finished filling form at 6.41 hours
+23081.79: Load 227 (L_donor)just arrived at 6.41 hours
+23086.24: Load 96 (L_donor)finished blood test at 6.41 hours
+23108.15: Load 98 (L_donor)finished blood donation at 6.42 hours
+23108.41: Load 227 (L_donor)finished filling form at 6.42 hours
+23111.57: Load 137 (L_donor)finished medical screening at 6.42 hours
+23150.24: Load 222 (L_donor)finished filling form at 6.43 hours
+23190.31: Load 81 (L_donor)finished blood donation at 6.44 hours
+23191.96: Load 198 (L_donor)just got queue number at 6.44 hours
+23222.98: Load 201 (L_donor)just got queue number at 6.45 hours
+23244.00: Load 217 (L_donor)just got queue number at 6.46 hours
+23323.66: Load 95 (L_donor)finished blood test at 6.48 hours
+23327.96: Load 220 (L_donor)just got queue number at 6.48 hours
+23345.30: Load 221 (L_donor)just got queue number at 6.48 hours
+23394.15: Load 203 (L_donor)just got queue number at 6.50 hours
+23416.22: Load 205 (L_donor)just got queue number at 6.50 hours
+23439.79: Load 228 (L_donor)just arrived at 6.51 hours
+23470.61: Load 228 (L_donor)finished filling form at 6.52 hours
+23473.41: Load 229 (L_donor)just arrived at 6.52 hours
+23501.06: Load 230 (L_donor)just arrived at 6.53 hours
+23521.62: Load 215 (L_donor)just got queue number at 6.53 hours
+23549.91: Load 95 (L_donor)finished blood donation at 6.54 hours
+23563.22: Load 139 (L_donor)finished medical screening at 6.55 hours
+23575.74: Load 138 (L_donor)finished medical screening at 6.55 hours
+23586.74: Load 231 (L_donor)just arrived at 6.55 hours
+23587.15: Load 146 (L_donor)finished medical screening at 6.55 hours
+23638.65: Load 97 (L_donor)finished blood test at 6.57 hours
+23639.41: Load 232 (L_donor)just arrived at 6.57 hours
+23706.19: Load 226 (L_donor)finished filling form at 6.59 hours
+23721.98: Load 212 (L_donor)just got queue number at 6.59 hours
+23734.39: Load 231 (L_donor)finished filling form at 6.59 hours
+23738.56: Load 229 (L_donor)finished filling form at 6.59 hours
+23821.03: Load 218 (L_donor)just got queue number at 6.62 hours
+23825.57: Load 225 (L_donor)just got queue number at 6.62 hours
+23858.04: Load 230 (L_donor)finished filling form at 6.63 hours
+23871.53: Load 233 (L_donor)just arrived at 6.63 hours
+23873.86: Load 234 (L_donor)just arrived at 6.63 hours
+23882.04: Load 235 (L_donor)just arrived at 6.63 hours
+23903.32: Load 234 (L_donor)finished filling form at 6.64 hours
+23913.20: Load 94 (L_donor)finished medical screening at 6.64 hours
+23943.31: Load 100 (L_donor)finished medical screening at 6.65 hours
+23990.28: Load 107 (L_donor)finished blood test at 6.66 hours
+23994.10: Load 226 (L_donor)just got queue number at 6.67 hours
+24008.88: Load 151 (L_donor)finished medical screening at 6.67 hours
+24015.63: Load 158 (L_donor)finished medical screening at 6.67 hours
+24015.79: Load 97 (L_donor)finished blood donation at 6.67 hours
+24025.04: Load 113 (L_donor)finished blood test at 6.67 hours
+24064.67: Load 213 (L_donor)just got queue number at 6.68 hours
+24091.73: Load 216 (L_donor)just got queue number at 6.69 hours
+24133.33: Load 219 (L_donor)just got queue number at 6.70 hours
+24152.99: Load 224 (L_donor)just got queue number at 6.71 hours
+24167.27: Load 223 (L_donor)just got queue number at 6.71 hours
+24175.67: Load 229 (L_donor)just got queue number at 6.72 hours
+24212.22: Load 96 (L_donor)finished blood donation at 6.73 hours
+24252.83: Load 102 (L_donor)finished medical screening at 6.74 hours
+24262.80: Load 236 (L_donor)just arrived at 6.74 hours
+24267.83: Load 227 (L_donor)just got queue number at 6.74 hours
+24272.51: Load 235 (L_donor)finished filling form at 6.74 hours
+24277.90: Load 237 (L_donor)just arrived at 6.74 hours
+24319.30: Load 237 (L_donor)finished filling form at 6.76 hours
+24321.23: Load 116 (L_donor)finished medical screening at 6.76 hours
+24345.64: Load 107 (L_donor)finished blood donation at 6.76 hours
+24372.20: Load 222 (L_donor)just got queue number at 6.77 hours
+24446.06: Load 235 (L_donor)just got queue number at 6.79 hours
+24475.05: Load 232 (L_donor)finished filling form at 6.80 hours
+24497.72: Load 103 (L_donor)finished blood test at 6.80 hours
+24498.75: Load 236 (L_donor)finished filling form at 6.81 hours
+24512.43: Load 103 (L_donor)finished blood donation at 6.81 hours
+24531.18: Load 117 (L_donor)finished blood test at 6.81 hours
+24619.20: Load 161 (L_donor)finished medical screening at 6.84 hours
+24621.29: Load 233 (L_donor)finished filling form at 6.84 hours
+24655.58: Load 106 (L_donor)finished medical screening at 6.85 hours
+24674.24: Load 89 (L_donor)finished blood donation at 6.85 hours
+24693.61: Load 105 (L_donor)finished blood test at 6.86 hours
+24700.24: Load 166 (L_donor)finished medical screening at 6.86 hours
+24732.72: Load 112 (L_donor)finished medical screening at 6.87 hours
+24739.56: Load 238 (L_donor)just arrived at 6.87 hours
+24750.28: Load 228 (L_donor)just got queue number at 6.88 hours
+24753.37: Load 232 (L_donor)just got queue number at 6.88 hours
+24832.87: Load 113 (L_donor)finished blood donation at 6.90 hours
+24834.30: Load 233 (L_donor)just got queue number at 6.90 hours
+24854.37: Load 239 (L_donor)just arrived at 6.90 hours
+24868.48: Load 240 (L_donor)just arrived at 6.91 hours
+24938.75: Load 238 (L_donor)finished filling form at 6.93 hours
+24943.61: Load 240 (L_donor)finished filling form at 6.93 hours
+24943.98: Load 241 (L_donor)just arrived at 6.93 hours
+24953.59: Load 239 (L_donor)finished filling form at 6.93 hours
+24987.55: Load 104 (L_donor)finished blood test at 6.94 hours
+25039.97: Load 238 (L_donor)just got queue number at 6.96 hours
+25122.81: Load 242 (L_donor)just arrived at 6.98 hours
+25163.50: Load 241 (L_donor)finished filling form at 6.99 hours
+25172.29: Load 243 (L_donor)just arrived at 6.99 hours
+25194.53: Load 244 (L_donor)just arrived at 7.00 hours
+25255.78: Load 115 (L_donor)finished medical screening at 7.02 hours
+25423.36: Load 242 (L_donor)finished filling form at 7.06 hours
+25437.06: Load 168 (L_donor)finished medical screening at 7.07 hours
+25519.73: Load 240 (L_donor)just got queue number at 7.09 hours
+25521.01: Load 239 (L_donor)just got queue number at 7.09 hours
+25543.77: Load 244 (L_donor)finished filling form at 7.10 hours
+25577.99: Load 244 (L_donor)just got queue number at 7.10 hours
+25590.05: Load 110 (L_donor)finished blood test at 7.11 hours
+25596.44: Load 231 (L_donor)just got queue number at 7.11 hours
+25636.08: Load 243 (L_donor)finished filling form at 7.12 hours
+25654.96: Load 105 (L_donor)finished blood donation at 7.13 hours
+25660.68: Load 243 (L_donor)just got queue number at 7.13 hours
+25804.99: Load 77 (L_donor)finished blood donation at 7.17 hours
+25843.11: Load 167 (L_donor)finished medical screening at 7.18 hours
+25860.03: Load 111 (L_donor)finished medical screening at 7.18 hours
+25921.94: Load 114 (L_donor)finished blood test at 7.20 hours
+26067.49: Load 117 (L_donor)finished blood donation at 7.24 hours
+26144.36: Load 230 (L_donor)just got queue number at 7.26 hours
+26327.97: Load 234 (L_donor)just got queue number at 7.31 hours
+26369.29: Load 121 (L_donor)finished medical screening at 7.32 hours
+26384.52: Load 118 (L_donor)finished medical screening at 7.33 hours
+26406.40: Load 123 (L_donor)finished medical screening at 7.34 hours
+26410.29: Load 120 (L_donor)finished blood test at 7.34 hours
+26644.17: Load 142 (L_donor)finished medical screening at 7.40 hours
+26687.36: Load 237 (L_donor)just got queue number at 7.41 hours
+26698.93: Load 114 (L_donor)finished blood donation at 7.42 hours
+26751.79: Load 236 (L_donor)just got queue number at 7.43 hours
+26801.82: Load 241 (L_donor)just got queue number at 7.44 hours
+26869.86: Load 119 (L_donor)finished blood test at 7.46 hours
+26887.62: Load 242 (L_donor)just got queue number at 7.47 hours
+27035.52: Load 119 (L_donor)finished blood donation at 7.51 hours
+27036.63: Load 149 (L_donor)finished medical screening at 7.51 hours
+27334.36: Load 108 (L_donor)finished blood test at 7.59 hours
+27517.79: Load 128 (L_donor)finished blood test at 7.64 hours
+27535.96: Load 108 (L_donor)finished blood donation at 7.65 hours
+27639.33: Load 110 (L_donor)finished blood donation at 7.68 hours
+27970.13: Load 120 (L_donor)finished blood donation at 7.77 hours
+28144.20: Load 178 (L_donor)finished medical screening at 7.82 hours
+28200.97: Load 177 (L_donor)finished medical screening at 7.83 hours
+28304.09: Load 176 (L_donor)finished medical screening at 7.86 hours
+28312.95: Load 122 (L_donor)finished medical screening at 7.86 hours
+28608.09: Load 153 (L_donor)finished medical screening at 7.95 hours
+28841.46: Load 139 (L_donor)finished blood test at 8.01 hours
+28865.83: Load 139 (L_donor)finished blood donation at 8.02 hours
+29011.74: Load 138 (L_donor)finished blood test at 8.06 hours
+29040.61: Load 156 (L_donor)finished medical screening at 8.07 hours
+29140.82: Load 128 (L_donor)finished blood donation at 8.09 hours
+29142.12: Load 104 (L_donor)finished blood donation at 8.10 hours
+29173.19: Load 146 (L_donor)finished blood test at 8.10 hours
+29243.93: Load 124 (L_donor)finished medical screening at 8.12 hours
+29271.16: Load 94 (L_donor)finished blood test at 8.13 hours
+29421.72: Load 150 (L_donor)finished medical screening at 8.17 hours
+29503.88: Load 165 (L_donor)finished medical screening at 8.20 hours
+29591.32: Load 164 (L_donor)finished medical screening at 8.22 hours
+29775.76: Load 100 (L_donor)finished blood test at 8.27 hours
+30040.20: Load 158 (L_donor)finished blood test at 8.34 hours
+30185.60: Load 127 (L_donor)finished medical screening at 8.38 hours
+30358.06: Load 100 (L_donor)finished blood donation at 8.43 hours
+30429.40: Load 116 (L_donor)finished blood test at 8.45 hours
+30588.80: Load 161 (L_donor)finished blood test at 8.50 hours
+30767.36: Load 106 (L_donor)finished blood test at 8.55 hours
+30811.49: Load 166 (L_donor)finished blood test at 8.56 hours
+30814.92: Load 126 (L_donor)finished medical screening at 8.56 hours
+30855.29: Load 125 (L_donor)finished medical screening at 8.57 hours
+30860.44: Load 129 (L_donor)finished medical screening at 8.57 hours
+30867.54: Load 132 (L_donor)finished medical screening at 8.57 hours
+30879.22: Load 112 (L_donor)finished blood test at 8.58 hours
+30954.09: Load 116 (L_donor)finished blood donation at 8.60 hours
+31026.23: Load 161 (L_donor)finished blood donation at 8.62 hours
+31027.07: Load 158 (L_donor)finished blood donation at 8.62 hours
+31047.36: Load 112 (L_donor)finished blood donation at 8.62 hours
+31152.56: Load 146 (L_donor)finished blood donation at 8.65 hours
+31203.52: Load 168 (L_donor)finished blood test at 8.67 hours
+31231.92: Load 138 (L_donor)finished blood donation at 8.68 hours
+31345.75: Load 163 (L_donor)finished medical screening at 8.71 hours
+31517.08: Load 167 (L_donor)finished blood test at 8.75 hours
+31792.59: Load 111 (L_donor)finished blood test at 8.83 hours
+31832.22: Load 121 (L_donor)finished blood test at 8.84 hours
+31899.03: Load 167 (L_donor)finished blood donation at 8.86 hours
+31939.42: Load 94 (L_donor)finished blood donation at 8.87 hours
+32050.40: Load 133 (L_donor)finished medical screening at 8.90 hours
+32111.60: Load 111 (L_donor)finished blood donation at 8.92 hours
+32177.88: Load 118 (L_donor)finished blood test at 8.94 hours
+32187.06: Load 141 (L_donor)finished medical screening at 8.94 hours
+32252.40: Load 144 (L_donor)finished medical screening at 8.96 hours
+32299.55: Load 106 (L_donor)finished blood donation at 8.97 hours
+32317.30: Load 118 (L_donor)finished blood donation at 8.98 hours
+32499.73: Load 123 (L_donor)finished blood test at 9.03 hours
+32500.45: Load 142 (L_donor)finished blood test at 9.03 hours
+32636.81: Load 149 (L_donor)finished blood test at 9.07 hours
+32794.08: Load 149 (L_donor)finished blood donation at 9.11 hours
+32920.41: Load 142 (L_donor)finished blood donation at 9.14 hours
+32925.58: Load 166 (L_donor)finished blood donation at 9.15 hours
+32928.52: Load 178 (L_donor)finished blood test at 9.15 hours
+32979.89: Load 168 (L_donor)finished blood donation at 9.16 hours
+33088.14: Load 177 (L_donor)finished blood test at 9.19 hours
+33127.46: Load 121 (L_donor)finished blood donation at 9.20 hours
+33145.43: Load 194 (L_donor)finished medical screening at 9.21 hours
+33314.31: Load 181 (L_donor)finished medical screening at 9.25 hours
+33348.90: Load 154 (L_donor)finished medical screening at 9.26 hours
+33384.38: Load 152 (L_donor)finished medical screening at 9.27 hours
+33386.28: Load 130 (L_donor)finished medical screening at 9.27 hours
+33389.13: Load 193 (L_donor)finished medical screening at 9.27 hours
+33468.44: Load 177 (L_donor)finished blood donation at 9.30 hours
+33498.86: Load 131 (L_donor)finished medical screening at 9.31 hours
+33535.83: Load 176 (L_donor)finished blood test at 9.32 hours
+33549.55: Load 122 (L_donor)finished blood test at 9.32 hours
+33724.30: Load 153 (L_donor)finished blood test at 9.37 hours
+33764.14: Load 135 (L_donor)finished medical screening at 9.38 hours
+33832.41: Load 156 (L_donor)finished blood test at 9.40 hours
+33883.77: Load 124 (L_donor)finished blood test at 9.41 hours
+33968.22: Load 159 (L_donor)finished medical screening at 9.44 hours
+33995.85: Load 124 (L_donor)finished blood donation at 9.44 hours
+34006.73: Load 156 (L_donor)finished blood donation at 9.45 hours
+34113.87: Load 196 (L_donor)finished medical screening at 9.48 hours
+34117.72: Load 187 (L_donor)finished medical screening at 9.48 hours
+34140.03: Load 176 (L_donor)finished blood donation at 9.48 hours
+34300.97: Load 209 (L_donor)finished medical screening at 9.53 hours
+34321.16: Load 150 (L_donor)finished blood test at 9.53 hours
+34351.64: Load 155 (L_donor)finished medical screening at 9.54 hours
+34364.35: Load 165 (L_donor)finished blood test at 9.55 hours
+34404.79: Load 165 (L_donor)finished blood donation at 9.56 hours
+34468.87: Load 210 (L_donor)finished medical screening at 9.57 hours
+34492.73: Load 164 (L_donor)finished blood test at 9.58 hours
+34549.90: Load 178 (L_donor)finished blood donation at 9.60 hours
+34879.33: Load 206 (L_donor)finished medical screening at 9.69 hours
+34956.73: Load 127 (L_donor)finished blood test at 9.71 hours
+35053.92: Load 122 (L_donor)finished blood donation at 9.74 hours
+35090.21: Load 211 (L_donor)finished medical screening at 9.75 hours
+35167.57: Load 123 (L_donor)finished blood donation at 9.77 hours
+35236.36: Load 170 (L_donor)finished medical screening at 9.79 hours
+35255.06: Load 150 (L_donor)finished blood donation at 9.79 hours
+35317.48: Load 127 (L_donor)finished blood donation at 9.81 hours
+35333.21: Load 126 (L_donor)finished blood test at 9.81 hours
+35463.06: Load 125 (L_donor)finished blood test at 9.85 hours
+35569.15: Load 129 (L_donor)finished blood test at 9.88 hours
+35639.70: Load 129 (L_donor)finished blood donation at 9.90 hours
+35643.16: Load 132 (L_donor)finished blood test at 9.90 hours
+35683.66: Load 169 (L_donor)finished medical screening at 9.91 hours
+35686.25: Load 201 (L_donor)finished medical screening at 9.91 hours
+36011.41: Load 163 (L_donor)finished blood test at 10.00 hours
+36078.01: Load 133 (L_donor)finished blood test at 10.02 hours
+36079.34: Load 163 (L_donor)finished blood donation at 10.02 hours
+36089.28: Load 141 (L_donor)finished blood test at 10.02 hours
+36107.46: Load 132 (L_donor)finished blood donation at 10.03 hours
+36110.37: Load 144 (L_donor)finished blood test at 10.03 hours
+36149.43: Load 194 (L_donor)finished blood test at 10.04 hours
+36200.85: Load 181 (L_donor)finished blood test at 10.06 hours
+36427.13: Load 144 (L_donor)finished blood donation at 10.12 hours
+36635.03: Load 217 (L_donor)finished medical screening at 10.18 hours
+36679.97: Load 126 (L_donor)finished blood donation at 10.19 hours
+36824.47: Load 125 (L_donor)finished blood donation at 10.23 hours
+36912.63: Load 141 (L_donor)finished blood donation at 10.25 hours
+37012.23: Load 220 (L_donor)finished medical screening at 10.28 hours
+37061.33: Load 143 (L_donor)finished medical screening at 10.29 hours
+37061.96: Load 221 (L_donor)finished medical screening at 10.29 hours
+37067.28: Load 194 (L_donor)finished blood donation at 10.30 hours
+37247.66: Load 172 (L_donor)finished medical screening at 10.35 hours
+37365.26: Load 205 (L_donor)finished medical screening at 10.38 hours
+37402.75: Load 133 (L_donor)finished blood donation at 10.39 hours
+37413.25: Load 174 (L_donor)finished medical screening at 10.39 hours
+37465.32: Load 164 (L_donor)finished blood donation at 10.41 hours
+37547.09: Load 152 (L_donor)finished blood test at 10.43 hours
+37674.85: Load 145 (L_donor)finished medical screening at 10.47 hours
+37685.02: Load 130 (L_donor)finished blood test at 10.47 hours
+37972.78: Load 225 (L_donor)finished medical screening at 10.55 hours
+38082.11: Load 153 (L_donor)finished blood donation at 10.58 hours
+38130.31: Load 147 (L_donor)finished medical screening at 10.59 hours
+38131.16: Load 180 (L_donor)finished medical screening at 10.59 hours
+38671.62: Load 226 (L_donor)finished medical screening at 10.74 hours
+38708.32: Load 148 (L_donor)finished medical screening at 10.75 hours
+39016.00: Load 131 (L_donor)finished blood test at 10.84 hours
+39033.17: Load 130 (L_donor)finished blood donation at 10.84 hours
+39059.62: Load 175 (L_donor)finished medical screening at 10.85 hours
+39065.83: Load 216 (L_donor)finished medical screening at 10.85 hours
+39237.76: Load 224 (L_donor)finished medical screening at 10.90 hours
+39256.90: Load 179 (L_donor)finished medical screening at 10.90 hours
+39264.00: Load 183 (L_donor)finished medical screening at 10.91 hours
+39585.28: Load 186 (L_donor)finished medical screening at 11.00 hours
+39620.34: Load 135 (L_donor)finished blood test at 11.01 hours
+39629.42: Load 159 (L_donor)finished blood test at 11.01 hours
+39668.12: Load 196 (L_donor)finished blood test at 11.02 hours
+39905.11: Load 181 (L_donor)finished blood donation at 11.08 hours
+40018.02: Load 160 (L_donor)finished medical screening at 11.12 hours
+40112.77: Load 235 (L_donor)finished medical screening at 11.14 hours
+40131.78: Load 188 (L_donor)finished medical screening at 11.15 hours
+40171.53: Load 196 (L_donor)finished blood donation at 11.16 hours
+40255.08: Load 232 (L_donor)finished medical screening at 11.18 hours
+40322.97: Load 209 (L_donor)finished blood test at 11.20 hours
+40480.84: Load 240 (L_donor)finished medical screening at 11.24 hours
+40491.46: Load 182 (L_donor)finished medical screening at 11.25 hours
+40729.21: Load 155 (L_donor)finished blood test at 11.31 hours
+40930.54: Load 239 (L_donor)finished medical screening at 11.37 hours
+40938.91: Load 131 (L_donor)finished blood donation at 11.37 hours
+41049.27: Load 157 (L_donor)finished medical screening at 11.40 hours
+41079.12: Load 210 (L_donor)finished blood test at 11.41 hours
+41193.08: Load 206 (L_donor)finished blood test at 11.44 hours
+41241.22: Load 170 (L_donor)finished blood test at 11.46 hours
+41284.06: Load 169 (L_donor)finished blood test at 11.47 hours
+41296.16: Load 152 (L_donor)finished blood donation at 11.47 hours
+41312.01: Load 192 (L_donor)finished medical screening at 11.48 hours
+41333.89: Load 201 (L_donor)finished blood test at 11.48 hours
+41353.23: Load 169 (L_donor)finished blood donation at 11.49 hours
+41358.00: Load 206 (L_donor)finished blood donation at 11.49 hours
+41401.14: Load 135 (L_donor)finished blood donation at 11.50 hours
+41436.45: Load 170 (L_donor)finished blood donation at 11.51 hours
+41522.53: Load 209 (L_donor)finished blood donation at 11.53 hours
+41562.86: Load 243 (L_donor)finished medical screening at 11.55 hours
+41620.50: Load 217 (L_donor)finished blood test at 11.56 hours
+41655.64: Load 159 (L_donor)finished blood donation at 11.57 hours
+41674.88: Load 220 (L_donor)finished blood test at 11.58 hours
+41705.77: Load 230 (L_donor)finished medical screening at 11.58 hours
+41725.01: Load 210 (L_donor)finished blood donation at 11.59 hours
+41752.64: Load 162 (L_donor)finished medical screening at 11.60 hours
+41773.34: Load 200 (L_donor)finished medical screening at 11.60 hours
+41930.13: Load 234 (L_donor)finished medical screening at 11.65 hours
+42001.36: Load 241 (L_donor)finished medical screening at 11.67 hours
+42143.42: Load 242 (L_donor)finished medical screening at 11.71 hours
+42341.37: Load 184 (L_donor)finished medical screening at 11.76 hours
+42368.72: Load 202 (L_donor)finished medical screening at 11.77 hours
+42548.17: Load 221 (L_donor)finished blood test at 11.82 hours
+42612.27: Load 220 (L_donor)finished blood donation at 11.84 hours
+42624.27: Load 155 (L_donor)finished blood donation at 11.84 hours
+42628.13: Load 172 (L_donor)finished blood test at 11.84 hours
+42920.19: Load 205 (L_donor)finished blood test at 11.92 hours
+43136.32: Load 205 (L_donor)finished blood donation at 11.98 hours
+43153.89: Load 217 (L_donor)finished blood donation at 11.99 hours
+43269.96: Load 207 (L_donor)finished medical screening at 12.02 hours
+43356.82: Load 174 (L_donor)finished blood test at 12.04 hours
+43379.35: Load 208 (L_donor)finished medical screening at 12.05 hours
+43497.22: Load 145 (L_donor)finished blood test at 12.08 hours
+43544.43: Load 225 (L_donor)finished blood test at 12.10 hours
+43859.13: Load 174 (L_donor)finished blood donation at 12.18 hours
+43927.10: Load 172 (L_donor)finished blood donation at 12.20 hours
+44063.34: Load 221 (L_donor)finished blood donation at 12.24 hours
+44126.71: Load 225 (L_donor)finished blood donation at 12.26 hours
+44197.87: Load 147 (L_donor)finished blood test at 12.28 hours
+44218.05: Load 180 (L_donor)finished blood test at 12.28 hours
+44311.26: Load 185 (L_donor)finished medical screening at 12.31 hours
+44652.32: Load 204 (L_donor)finished medical screening at 12.40 hours
+44849.92: Load 180 (L_donor)finished blood donation at 12.46 hours
+44900.63: Load 147 (L_donor)finished blood donation at 12.47 hours
+45165.36: Load 145 (L_donor)finished blood donation at 12.55 hours
+45166.24: Load 226 (L_donor)finished blood test at 12.55 hours
+45190.36: Load 148 (L_donor)finished blood test at 12.55 hours
+45244.82: Load 226 (L_donor)finished blood donation at 12.57 hours
+45255.18: Load 175 (L_donor)finished blood test at 12.57 hours
+45373.08: Load 216 (L_donor)finished blood test at 12.60 hours
+45377.88: Load 224 (L_donor)finished blood test at 12.60 hours
+45404.05: Load 179 (L_donor)finished blood test at 12.61 hours
+45445.15: Load 190 (L_donor)finished medical screening at 12.62 hours
+45530.27: Load 201 (L_donor)finished blood donation at 12.65 hours
+45725.46: Load 197 (L_donor)finished medical screening at 12.70 hours
+45804.18: Load 216 (L_donor)finished blood donation at 12.72 hours
+45835.21: Load 214 (L_donor)finished medical screening at 12.73 hours
+45840.67: Load 183 (L_donor)finished blood test at 12.73 hours
+45878.09: Load 148 (L_donor)finished blood donation at 12.74 hours
+45903.87: Load 186 (L_donor)finished blood test at 12.75 hours
+46044.15: Load 186 (L_donor)finished blood donation at 12.79 hours
+46167.83: Load 183 (L_donor)finished blood donation at 12.82 hours
+46353.83: Load 179 (L_donor)finished blood donation at 12.88 hours
+46361.50: Load 224 (L_donor)finished blood donation at 12.88 hours
+46452.58: Load 198 (L_donor)finished medical screening at 12.90 hours
+46670.63: Load 188 (L_donor)finished blood test at 12.96 hours
+46701.26: Load 175 (L_donor)finished blood donation at 12.97 hours
+46808.53: Load 188 (L_donor)finished blood donation at 13.00 hours
+47133.95: Load 232 (L_donor)finished blood test at 13.09 hours
+47247.73: Load 203 (L_donor)finished medical screening at 13.12 hours
+47410.07: Load 232 (L_donor)finished blood donation at 13.17 hours
+47527.50: Load 240 (L_donor)finished blood test at 13.20 hours
+47535.84: Load 215 (L_donor)finished medical screening at 13.20 hours
+47681.48: Load 182 (L_donor)finished blood test at 13.24 hours
+47885.30: Load 239 (L_donor)finished blood test at 13.30 hours
+47886.68: Load 212 (L_donor)finished medical screening at 13.30 hours
+47945.80: Load 182 (L_donor)finished blood donation at 13.32 hours
+48007.75: Load 157 (L_donor)finished blood test at 13.34 hours
+48090.65: Load 192 (L_donor)finished blood test at 13.36 hours
+48144.75: Load 239 (L_donor)finished blood donation at 13.37 hours
+48187.53: Load 218 (L_donor)finished medical screening at 13.39 hours
+48210.20: Load 192 (L_donor)finished blood donation at 13.39 hours
+48411.95: Load 157 (L_donor)finished blood donation at 13.45 hours
+48457.37: Load 213 (L_donor)finished medical screening at 13.46 hours
+48463.34: Load 243 (L_donor)finished blood test at 13.46 hours
+48555.97: Load 219 (L_donor)finished medical screening at 13.49 hours
+48703.86: Load 223 (L_donor)finished medical screening at 13.53 hours
+49453.52: Load 162 (L_donor)finished blood test at 13.74 hours
+49483.20: Load 200 (L_donor)finished blood test at 13.75 hours
+49489.10: Load 227 (L_donor)finished medical screening at 13.75 hours
+49504.47: Load 234 (L_donor)finished blood test at 13.75 hours
+49584.10: Load 241 (L_donor)finished blood test at 13.77 hours
+49746.43: Load 222 (L_donor)finished medical screening at 13.82 hours
+49877.85: Load 241 (L_donor)finished blood donation at 13.85 hours
+50184.64: Load 162 (L_donor)finished blood donation at 13.94 hours
+50330.44: Load 238 (L_donor)finished medical screening at 13.98 hours
+50355.17: Load 240 (L_donor)finished blood donation at 13.99 hours
+50387.17: Load 242 (L_donor)finished blood test at 14.00 hours
+50411.01: Load 184 (L_donor)finished blood test at 14.00 hours
+50465.44: Load 202 (L_donor)finished blood test at 14.02 hours
+50602.60: Load 184 (L_donor)finished blood donation at 14.06 hours
+50718.48: Load 202 (L_donor)finished blood donation at 14.09 hours
+50727.22: Load 234 (L_donor)finished blood donation at 14.09 hours
+50753.17: Load 207 (L_donor)finished blood test at 14.10 hours
+50889.12: Load 208 (L_donor)finished blood test at 14.14 hours
+50955.25: Load 207 (L_donor)finished blood donation at 14.15 hours
+51167.86: Load 244 (L_donor)finished medical screening at 14.21 hours
+51242.37: Load 185 (L_donor)finished blood test at 14.23 hours
+51318.44: Load 208 (L_donor)finished blood donation at 14.26 hours
+51338.26: Load 185 (L_donor)finished blood donation at 14.26 hours
+51767.52: Load 204 (L_donor)finished blood test at 14.38 hours
+51880.90: Load 190 (L_donor)finished blood test at 14.41 hours
+52003.88: Load 190 (L_donor)finished blood donation at 14.45 hours
+52069.29: Load 197 (L_donor)finished blood test at 14.46 hours
+52112.69: Load 214 (L_donor)finished blood test at 14.48 hours
+52189.06: Load 236 (L_donor)finished medical screening at 14.50 hours
+52242.42: Load 200 (L_donor)finished blood donation at 14.51 hours
+52477.09: Load 214 (L_donor)finished blood donation at 14.58 hours
+52760.22: Load 242 (L_donor)finished blood donation at 14.66 hours
+52807.40: Load 198 (L_donor)finished blood test at 14.67 hours
+53145.13: Load 215 (L_donor)finished blood test at 14.76 hours
+53282.22: Load 198 (L_donor)finished blood donation at 14.80 hours
+53422.78: Load 212 (L_donor)finished blood test at 14.84 hours
+53502.17: Load 197 (L_donor)finished blood donation at 14.86 hours
+53516.16: Load 218 (L_donor)finished blood test at 14.87 hours
+53750.63: Load 213 (L_donor)finished blood test at 14.93 hours
+53935.35: Load 219 (L_donor)finished blood test at 14.98 hours
+53956.56: Load 223 (L_donor)finished blood test at 14.99 hours
+54096.73: Load 223 (L_donor)finished blood donation at 15.03 hours
+54120.47: Load 227 (L_donor)finished blood test at 15.03 hours
+54225.91: Load 219 (L_donor)finished blood donation at 15.06 hours
+54233.02: Load 222 (L_donor)finished blood test at 15.06 hours
+54278.55: Load 213 (L_donor)finished blood donation at 15.08 hours
+54303.47: Load 212 (L_donor)finished blood donation at 15.08 hours
+54401.01: Load 238 (L_donor)finished blood test at 15.11 hours
+54556.67: Load 227 (L_donor)finished blood donation at 15.15 hours
+54573.61: Load 215 (L_donor)finished blood donation at 15.16 hours
+54678.04: Load 244 (L_donor)finished blood test at 15.19 hours
+54687.33: Load 236 (L_donor)finished blood test at 15.19 hours
+54909.87: Load 204 (L_donor)finished blood donation at 15.25 hours
+55170.00: Animation step is now 32 Seconds.
+55396.05: Load 222 (L_donor)finished blood donation at 15.39 hours
+55830.68: Load 238 (L_donor)finished blood donation at 15.51 hours
+56081.12: Load 236 (L_donor)finished blood donation at 15.58 hours
+56455.49: Load 218 (L_donor)finished blood donation at 15.68 hours
+56466.92: Load 244 (L_donor)finished blood donation at 15.69 hours
+57404.95: Load 243 (L_donor)finished blood donation at 15.95 hours
+60546.00: Animation step is now 64 Seconds.
+73090.00: Animation step is now 128 Seconds.

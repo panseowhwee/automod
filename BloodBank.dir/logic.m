@@ -73,8 +73,9 @@ begin P_medicalScreening arriving
 			move into Q_medicalScreening(2)
 			use R_doctor(2) for e 6 min
 		end
+		 
 
-	send to P_bloodTest
+	send to oneof(90:P_bloodTest, 10:die)  //to add in prob of failing medical screening
 end
 
 /*
@@ -86,10 +87,10 @@ begin P_bloodTest arriving
 	print this load "finished medical screening at " (absolute clock/3600) as .2 " hours" to message
 	move into Q_bloodTest_wait
 	move into Q_bloodTest
-	use R_bpa_bloodTest for 4 min
+	use R_bpa_bloodTest for e 4 min
 	//else if R_bpa_bloodTest is down then use R_staff(1) for 4 min //simulate break time
 	
-	send to P_donation
+	send to oneof(90:P_donation, 10:die)
 	
 end
 
@@ -108,7 +109,7 @@ end
 
 begin P_doctorsLunch arriving
 	wait for 120 min
-	take down R_doctor(1)
+	take down R_doctor(1)	
 	wait for 60 min
 	bring up R_doctor (1)
 	take down R_doctor(2)
@@ -126,7 +127,8 @@ begin P_recepLunch arriving
 			bring up R_receptionist(A_recep)
 			set A_recep to A_recep+1
 		end
-		wait for 1 min
+		else
+			wait for 1 min
 	end
 end
 		
