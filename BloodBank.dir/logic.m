@@ -94,22 +94,32 @@ begin P_bloodTest arriving
 	
 end
 
-
+/*
+This process simulates the blood donation process with 13 chairs and 5 attending staff
+*/
 begin P_donation arriving
 	print this load "finished blood test at " (absolute clock/3600) as .2 " hours" to message
 	move into Q_donation_wait
 	move into Q_donation
+	clone 1 load to P_nurseAttending
 	wait for e 20 min //to insert val
 	print this load "finished blood donation at " (absolute clock/3600) as .2 " hours" to message
 	send to die
 
 end
 
-//---------------------------------------BREAK(DOWN) TIMES MODELLING----------------------------------
+/*
+This process tracks the utilisation of the nurse at the donation station. 
+*/
+begin P_nurseAttending arriving //IN THIS CASE WONT BOTH END AT DIFFERENT TIME?!
+
+end
+
+//-----------------------------------------BREAK(DOWN) TIMES MODELLING----------------------------------------
 
 begin P_doctorsLunch arriving
 	wait for 120 min
-	take down R_doctor(1)	
+	take down R_doctor(1)	//do we need to add if load is 0 then go for break? or does it do it automatically
 	wait for 60 min
 	bring up R_doctor (1)
 	take down R_doctor(2)
@@ -131,6 +141,8 @@ begin P_recepLunch arriving
 			wait for 1 min
 	end
 end
+
+
 		
 //-------------------------------------OTHER FUNCTIONS ---------------------------------------------
 

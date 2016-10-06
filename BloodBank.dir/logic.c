@@ -3,7 +3,7 @@
 // Build: 12.6.1.12
 // Model name:	BloodBank
 // Model path:	D:\SEM5 mods\IE3110 Simulation\Automod\BloodBank.dir\
-// Generated:	Wed Oct 05 19:26:16 2016
+// Generated:	Thu Oct 06 09:09:14 2016
 // Applied/AutoMod Licensee Confidential
 // NO DISTRIBUTION OR REPRODUCTION RIGHTS GRANTED!
 // Copyright (c) 1988-2015 Applied Materials All rights reserved.
@@ -498,6 +498,9 @@ Label2: ; // Step 2
 Label3: ; // Step 3
 		}
 		{
+			clone(this, 1, am2_P_nurseAttending, NULL);
+		}
+		{
 			if (waitfor(ToModelTime(exponential(am2_stream0, 20), UNITMINUTES), this, P_donation_arriving, Step 4, am_localargs) == Delayed)
 				return Delayed;
 Label4: ; // Step 4
@@ -524,6 +527,19 @@ LabelRet: ;
 		xfree(am_localargs);
 	return retval;
 } /* end of P_donation_arriving */
+
+static int32
+P_nurseAttending_arriving(load* this, int32 step, void* args)
+{
+	void* am_localargs = NULL;
+	int32 retval = Continue;
+	{
+	}
+LabelRet: ;
+	if (am_localargs)
+		xfree(am_localargs);
+	return retval;
+} /* end of P_nurseAttending_arriving */
 
 static int32
 P_doctorsLunch_arriving(load* this, int32 step, void* args)
@@ -648,6 +664,7 @@ model_logic_init(struct model_struct* data)
 	data->am_P_medicalScreening->aprc = P_medicalScreening_arriving;
 	data->am_P_bloodTest->aprc = P_bloodTest_arriving;
 	data->am_P_donation->aprc = P_donation_arriving;
+	data->am_P_nurseAttending->aprc = P_nurseAttending_arriving;
 	data->am_P_doctorsLunch->aprc = P_doctorsLunch_arriving;
 	data->am_P_recepLunch->aprc = P_recepLunch_arriving;
 }
